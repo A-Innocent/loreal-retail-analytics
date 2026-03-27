@@ -1,0 +1,58 @@
+{
+  "name": "L'Oréal Retail Analytics",
+  "dataColors": [
+    "#C9A84C",
+    "#E8D5A3",
+    "#8B6914",
+    "#F5ECD7",
+    "#6B5210",
+    "#D4AF37",
+    "#A07830",
+    "#FFF8E7"
+  ],
+  "background": "#1A1A1A",
+  "foreground": "#FFFFFF",
+  "tableAccent": "#C9A84C",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [{"color": {"solid": {"color": "#1A1A1A"}}}],
+        "fontColor": [{"color": {"solid": {"color": "#FFFFFF"}}}],
+        "gridLineColor": [{"color": {"solid": {"color": "#333333"}}}]
+      }
+    },
+    "card": {
+      "*": {
+        "calloutValue": [{"color": {"solid": {"color": "#C9A84C"}}}],
+        "categoryLabel": [{"color": {"solid": {"color": "#FFFFFF"}}}]
+      }
+    },
+    "slicer": {
+      "*": {
+        "items": [{"fontColor": {"solid": {"color": "#FFFFFF"}}}]
+      }
+    }
+  },
+  "textClasses": {
+    "callout": {
+      "fontSize": 45,
+      "fontFace": "Segoe UI",
+      "color": "#C9A84C"
+    },
+    "title": {
+      "fontSize": 12,
+      "fontFace": "Segoe UI",
+      "color": "#FFFFFF"
+    },
+    "header": {
+      "fontSize": 12,
+      "fontFace": "Segoe UI",
+      "color": "#C9A84C"
+    },
+    "label": {
+      "fontSize": 10,
+      "fontFace": "Segoe UI",
+      "color": "#FFFFFF"
+    }
+  }
+}
