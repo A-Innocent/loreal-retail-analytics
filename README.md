@@ -1,6 +1,6 @@
 # L'Oréal Retail Analytics Dashboard
 
-A production-grade BI solution built on the Sephora skincare dataset, 
+A production-grade BI solution built on the a public skincare dataset, 
 demonstrating end-to-end analytics engineering from raw data to 
 AI-powered insights.
 
@@ -17,7 +17,7 @@ actionable business intelligence.
 - **GitHub** — version control and documentation
 
 ## Dataset
-Sephora Products and Skincare Reviews — Kaggle  
+Skincare Products and Skincare Reviews — Kaggle  
 1,094,411 customer reviews across 27 product categories and 1,100+ brands
 
 ## Dashboard Pages
