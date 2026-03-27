@@ -1,0 +1,1927 @@
+primary_category,secondary_category,review_year,review_month,avg_rating,total_reviews,avg_price,pct_recommended
+Skincare,Cleansers,2008,8,4.0,10,33.1,
+Skincare,Cleansers,2008,9,4.47,489,30.83,
+Skincare,Cleansers,2008,10,4.4,164,30.6,
+Skincare,Cleansers,2008,11,4.46,146,32.43,
+Skincare,Cleansers,2008,12,4.57,183,31.19,
+Skincare,Cleansers,2009,1,4.46,178,31.46,
+Skincare,Cleansers,2009,2,4.28,132,30.58,
+Skincare,Cleansers,2009,3,4.3,331,34.54,
+Skincare,Cleansers,2009,4,4.43,337,37.55,
+Skincare,Cleansers,2009,5,4.48,379,34.91,
+Skincare,Cleansers,2009,6,4.5,301,35.49,
+Skincare,Cleansers,2009,7,4.42,289,36.46,
+Skincare,Cleansers,2009,8,4.55,392,32.12,
+Skincare,Cleansers,2009,9,4.44,256,32.6,
+Skincare,Cleansers,2009,10,4.47,269,35.03,
+Skincare,Cleansers,2009,11,4.5,222,32.89,
+Skincare,Cleansers,2009,12,4.41,339,37.09,
+Skincare,Cleansers,2010,1,4.59,387,32.94,
+Skincare,Cleansers,2010,2,4.48,313,34.47,
+Skincare,Cleansers,2010,3,4.53,389,31.09,
+Skincare,Cleansers,2010,4,4.48,381,32.09,
+Skincare,Cleansers,2010,5,4.53,423,31.15,
+Skincare,Cleansers,2010,6,4.47,303,33.05,
+Skincare,Cleansers,2010,7,4.43,315,32.59,
+Skincare,Cleansers,2010,8,4.57,335,31.17,
+Skincare,Cleansers,2010,9,4.37,174,33.97,
+Skincare,Cleansers,2010,10,4.45,317,35.89,
+Skincare,Cleansers,2010,11,4.32,275,36.21,
+Skincare,Cleansers,2010,12,4.54,392,32.44,
+Skincare,Cleansers,2011,1,4.56,315,35.2,
+Skincare,Cleansers,2011,2,4.44,252,36.68,
+Skincare,Cleansers,2011,3,4.54,310,35.26,
+Skincare,Cleansers,2011,4,4.5,265,33.72,
+Skincare,Cleansers,2011,5,4.58,314,36.85,
+Skincare,Cleansers,2011,6,4.45,235,35.35,
+Skincare,Cleansers,2011,7,4.59,273,36.8,
+Skincare,Cleansers,2011,8,4.5,287,39.67,
+Skincare,Cleansers,2011,9,4.43,129,41.87,
+Skincare,Cleansers,2011,10,4.55,280,41.0,
+Skincare,Cleansers,2011,11,4.54,319,39.86,
+Skincare,Cleansers,2011,12,4.58,385,40.89,
+Skincare,Cleansers,2012,1,4.58,383,40.24,
+Skincare,Cleansers,2012,2,4.6,268,39.81,
+Skincare,Cleansers,2012,3,4.67,279,40.73,
+Skincare,Cleansers,2012,4,4.6,126,37.74,
+Skincare,Cleansers,2012,5,4.53,171,35.6,
+Skincare,Cleansers,2012,6,4.56,254,34.58,
+Skincare,Cleansers,2012,7,4.61,252,38.8,
+Skincare,Cleansers,2012,8,4.47,296,42.44,
+Skincare,Cleansers,2012,9,4.44,234,41.01,
+Skincare,Cleansers,2012,10,4.53,198,36.59,
+Skincare,Cleansers,2012,11,4.48,259,38.12,
+Skincare,Cleansers,2012,12,4.47,342,37.83,
+Skincare,Cleansers,2013,1,4.52,368,37.72,
+Skincare,Cleansers,2013,2,4.43,314,39.93,
+Skincare,Cleansers,2013,3,4.32,332,37.11,
+Skincare,Cleansers,2013,4,4.43,321,36.39,
+Skincare,Cleansers,2013,5,4.48,294,35.31,
+Skincare,Cleansers,2013,6,4.41,243,34.47,
+Skincare,Cleansers,2013,7,4.46,216,35.6,
+Skincare,Cleansers,2013,8,4.37,274,33.97,
+Skincare,Cleansers,2013,9,4.43,273,36.16,
+Skincare,Cleansers,2013,10,4.44,261,35.82,
+Skincare,Cleansers,2013,11,4.42,319,35.12,
+Skincare,Cleansers,2013,12,4.55,306,35.27,
+Skincare,Cleansers,2014,1,4.37,407,36.1,
+Skincare,Cleansers,2014,2,4.45,304,34.65,
+Skincare,Cleansers,2014,3,4.32,357,32.54,
+Skincare,Cleansers,2014,4,4.44,460,34.13,
+Skincare,Cleansers,2014,5,4.4,381,33.1,
+Skincare,Cleansers,2014,6,4.39,321,33.16,
+Skincare,Cleansers,2014,7,4.31,330,36.41,
+Skincare,Cleansers,2014,8,4.33,329,32.95,
+Skincare,Cleansers,2014,9,4.26,280,35.18,
+Skincare,Cleansers,2014,10,4.31,308,34.29,
+Skincare,Cleansers,2014,11,4.32,351,33.92,
+Skincare,Cleansers,2014,12,4.37,430,36.59,
+Skincare,Cleansers,2015,1,4.32,667,38.09,
+Skincare,Cleansers,2015,2,4.17,456,36.37,
+Skincare,Cleansers,2015,3,4.34,476,38.68,
+Skincare,Cleansers,2015,4,4.33,497,35.01,
+Skincare,Cleansers,2015,5,4.45,398,37.78,
+Skincare,Cleansers,2015,6,4.29,310,36.76,
+Skincare,Cleansers,2015,7,4.33,336,35.61,
+Skincare,Cleansers,2015,8,4.28,290,36.51,
+Skincare,Cleansers,2015,9,4.27,261,37.27,
+Skincare,Cleansers,2015,10,4.2,297,37.47,
+Skincare,Cleansers,2015,11,4.48,555,39.05,
+Skincare,Cleansers,2015,12,4.35,552,37.39,
+Skincare,Cleansers,2016,1,4.27,660,39.19,
+Skincare,Cleansers,2016,2,4.34,580,38.69,
+Skincare,Cleansers,2016,3,4.28,570,38.49,
+Skincare,Cleansers,2016,4,4.37,669,37.12,
+Skincare,Cleansers,2016,5,4.43,585,37.43,
+Skincare,Cleansers,2016,6,4.32,511,39.03,
+Skincare,Cleansers,2016,7,4.41,731,34.0,
+Skincare,Cleansers,2016,8,4.43,781,32.08,
+Skincare,Cleansers,2016,9,4.43,615,32.93,
+Skincare,Cleansers,2016,10,4.42,674,33.02,
+Skincare,Cleansers,2016,11,4.37,771,33.1,
+Skincare,Cleansers,2016,12,4.41,785,33.47,
+Skincare,Cleansers,2017,1,4.37,942,30.68,
+Skincare,Cleansers,2017,2,4.4,765,30.2,
+Skincare,Cleansers,2017,3,4.55,1387,33.77,
+Skincare,Cleansers,2017,4,4.41,710,37.2,
+Skincare,Cleansers,2017,5,4.43,607,36.79,
+Skincare,Cleansers,2017,6,4.45,692,35.71,
+Skincare,Cleansers,2017,7,4.53,1211,32.38,
+Skincare,Cleansers,2017,8,4.5,1406,31.89,0.95
+Skincare,Cleansers,2017,9,4.56,1712,32.8,0.91
+Skincare,Cleansers,2017,10,4.42,770,36.13,0.88
+Skincare,Cleansers,2017,11,4.48,989,34.92,0.89
+Skincare,Cleansers,2017,12,4.36,1035,35.13,0.86
+Skincare,Cleansers,2018,1,4.47,1405,34.1,0.87
+Skincare,Cleansers,2018,2,4.42,1304,33.48,0.86
+Skincare,Cleansers,2018,3,4.5,1323,34.98,0.89
+Skincare,Cleansers,2018,4,4.48,1497,35.95,0.88
+Skincare,Cleansers,2018,5,4.52,1246,35.15,0.89
+Skincare,Cleansers,2018,6,4.52,1165,36.15,0.9
+Skincare,Cleansers,2018,7,4.48,2368,34.17,0.91
+Skincare,Cleansers,2018,8,4.51,1609,34.52,0.9
+Skincare,Cleansers,2018,9,4.44,1364,35.65,0.86
+Skincare,Cleansers,2018,10,4.36,1554,36.09,0.85
+Skincare,Cleansers,2018,11,4.28,1568,36.66,0.83
+Skincare,Cleansers,2018,12,4.42,1854,35.25,0.88
+Skincare,Cleansers,2019,1,4.37,2581,35.61,0.87
+Skincare,Cleansers,2019,2,4.35,1802,34.94,0.85
+Skincare,Cleansers,2019,3,4.45,2776,34.12,0.88
+Skincare,Cleansers,2019,4,4.39,3636,32.73,0.87
+Skincare,Cleansers,2019,5,4.32,3267,33.56,0.85
+Skincare,Cleansers,2019,6,4.27,2494,34.52,0.84
+Skincare,Cleansers,2019,7,4.23,1731,34.63,0.81
+Skincare,Cleansers,2019,8,4.2,1970,34.69,0.79
+Skincare,Cleansers,2019,9,4.22,1882,34.08,0.81
+Skincare,Cleansers,2019,10,4.04,1335,35.05,0.76
+Skincare,Cleansers,2019,11,4.18,1478,36.14,0.79
+Skincare,Cleansers,2019,12,4.25,1841,35.08,0.83
+Skincare,Cleansers,2020,1,4.21,2384,34.02,0.81
+Skincare,Cleansers,2020,2,4.37,3599,43.61,0.87
+Skincare,Cleansers,2020,3,4.31,2953,37.14,0.85
+Skincare,Cleansers,2020,4,4.19,3939,34.35,0.8
+Skincare,Cleansers,2020,5,4.28,4681,32.89,0.84
+Skincare,Cleansers,2020,6,4.28,3742,35.32,0.84
+Skincare,Cleansers,2020,7,4.33,3501,43.86,0.83
+Skincare,Cleansers,2020,8,4.39,5014,38.58,0.86
+Skincare,Cleansers,2020,9,4.34,3996,38.73,0.87
+Skincare,Cleansers,2020,10,4.3,3581,43.74,0.85
+Skincare,Cleansers,2020,11,4.16,1875,34.61,0.79
+Skincare,Cleansers,2020,12,4.23,1994,33.18,0.81
+Skincare,Cleansers,2021,1,4.28,3656,34.14,0.83
+Skincare,Cleansers,2021,2,4.33,3188,33.36,0.85
+Skincare,Cleansers,2021,3,4.34,3251,33.27,0.85
+Skincare,Cleansers,2021,4,4.35,4961,47.02,0.86
+Skincare,Cleansers,2021,5,4.25,3861,55.93,0.83
+Skincare,Cleansers,2021,6,4.12,2614,48.8,0.79
+Skincare,Cleansers,2021,7,4.28,1580,31.53,0.82
+Skincare,Cleansers,2021,8,4.28,2065,29.42,0.83
+Skincare,Cleansers,2021,9,4.36,2030,31.02,0.85
+Skincare,Cleansers,2021,10,4.45,3220,39.09,0.88
+Skincare,Cleansers,2021,11,4.16,1996,32.27,0.79
+Skincare,Cleansers,2021,12,4.21,1687,31.08,0.81
+Skincare,Cleansers,2022,1,4.22,2551,30.78,0.81
+Skincare,Cleansers,2022,2,4.27,2172,30.45,0.84
+Skincare,Cleansers,2022,3,4.2,2098,31.67,0.8
+Skincare,Cleansers,2022,4,4.31,2922,35.54,0.84
+Skincare,Cleansers,2022,5,4.26,1918,32.59,0.82
+Skincare,Cleansers,2022,6,4.29,1674,35.82,0.82
+Skincare,Cleansers,2022,7,4.26,2097,34.62,0.82
+Skincare,Cleansers,2022,8,4.46,3976,48.01,0.88
+Skincare,Cleansers,2022,9,4.2,1722,32.2,0.81
+Skincare,Cleansers,2022,10,4.34,1116,32.81,0.84
+Skincare,Cleansers,2022,11,4.22,820,30.56,0.81
+Skincare,Cleansers,2022,12,4.43,1434,32.19,0.88
+Skincare,Cleansers,2023,1,4.3,1936,31.88,0.85
+Skincare,Cleansers,2023,2,4.34,3170,37.21,0.85
+Skincare,Cleansers,2023,3,4.3,2701,33.08,0.85
+Skincare,Eye Care,2008,8,5.0,1,37.0,
+Skincare,Eye Care,2008,9,4.27,98,42.54,
+Skincare,Eye Care,2008,10,3.86,42,42.12,
+Skincare,Eye Care,2008,11,3.96,45,42.0,
+Skincare,Eye Care,2008,12,3.77,44,43.95,
+Skincare,Eye Care,2009,1,4.24,45,44.93,
+Skincare,Eye Care,2009,2,4.25,32,41.94,
+Skincare,Eye Care,2009,3,4.22,82,43.04,
+Skincare,Eye Care,2009,4,4.12,65,46.17,
+Skincare,Eye Care,2009,5,4.12,76,44.08,
+Skincare,Eye Care,2009,6,4.08,60,45.37,
+Skincare,Eye Care,2009,7,4.24,58,51.19,
+Skincare,Eye Care,2009,8,4.36,66,50.18,
+Skincare,Eye Care,2009,9,4.37,51,47.29,
+Skincare,Eye Care,2009,10,4.03,37,43.35,
+Skincare,Eye Care,2009,11,4.09,35,41.49,
+Skincare,Eye Care,2009,12,4.29,52,43.21,
+Skincare,Eye Care,2010,1,4.19,67,44.52,
+Skincare,Eye Care,2010,2,4.21,66,41.58,
+Skincare,Eye Care,2010,3,4.02,166,39.85,
+Skincare,Eye Care,2010,4,4.04,97,40.74,
+Skincare,Eye Care,2010,5,4.02,135,44.34,
+Skincare,Eye Care,2010,6,3.82,94,40.8,
+Skincare,Eye Care,2010,7,4.19,93,41.44,
+Skincare,Eye Care,2010,8,4.05,103,41.58,
+Skincare,Eye Care,2010,9,4.22,49,42.71,
+Skincare,Eye Care,2010,10,3.85,67,41.16,
+Skincare,Eye Care,2010,11,3.92,60,40.45,
+Skincare,Eye Care,2010,12,3.81,124,43.27,
+Skincare,Eye Care,2011,1,3.99,85,43.81,
+Skincare,Eye Care,2011,2,3.83,60,43.8,
+Skincare,Eye Care,2011,3,3.63,52,47.13,
+Skincare,Eye Care,2011,4,3.74,80,45.3,
+Skincare,Eye Care,2011,5,3.89,63,47.75,
+Skincare,Eye Care,2011,6,4.18,38,42.61,
+Skincare,Eye Care,2011,7,3.87,55,44.13,
+Skincare,Eye Care,2011,8,4.31,49,46.84,
+Skincare,Eye Care,2011,9,3.5,14,46.93,
+Skincare,Eye Care,2011,10,3.93,59,43.22,
+Skincare,Eye Care,2011,11,4.05,77,40.05,
+Skincare,Eye Care,2011,12,4.08,92,42.92,
+Skincare,Eye Care,2012,1,4.25,99,45.14,
+Skincare,Eye Care,2012,2,3.81,103,42.95,
+Skincare,Eye Care,2012,3,4.03,91,43.11,
+Skincare,Eye Care,2012,4,4.28,29,45.9,
+Skincare,Eye Care,2012,5,4.05,41,42.59,
+Skincare,Eye Care,2012,6,3.93,46,41.85,
+Skincare,Eye Care,2012,7,3.8,51,43.8,
+Skincare,Eye Care,2012,8,4.18,55,42.67,
+Skincare,Eye Care,2012,9,4.02,54,44.59,
+Skincare,Eye Care,2012,10,3.54,67,49.01,
+Skincare,Eye Care,2012,11,3.9,83,45.23,
+Skincare,Eye Care,2012,12,3.87,114,47.35,
+Skincare,Eye Care,2013,1,3.9,116,49.89,
+Skincare,Eye Care,2013,2,3.91,99,44.51,
+Skincare,Eye Care,2013,3,3.61,101,47.79,
+Skincare,Eye Care,2013,4,4.06,107,44.9,
+Skincare,Eye Care,2013,5,3.83,98,45.39,
+Skincare,Eye Care,2013,6,3.93,73,45.63,
+Skincare,Eye Care,2013,7,4.17,63,46.32,
+Skincare,Eye Care,2013,8,3.92,62,50.03,
+Skincare,Eye Care,2013,9,3.76,37,53.95,
+Skincare,Eye Care,2013,10,3.31,52,51.12,
+Skincare,Eye Care,2013,11,4.09,75,50.93,
+Skincare,Eye Care,2013,12,4.32,91,45.32,
+Skincare,Eye Care,2014,1,4.03,102,51.69,
+Skincare,Eye Care,2014,2,3.94,89,49.36,
+Skincare,Eye Care,2014,3,3.77,75,49.15,
+Skincare,Eye Care,2014,4,3.76,102,52.08,
+Skincare,Eye Care,2014,5,4.19,81,51.85,
+Skincare,Eye Care,2014,6,3.8,64,54.0,
+Skincare,Eye Care,2014,7,4.0,62,54.39,
+Skincare,Eye Care,2014,8,4.08,73,50.15,
+Skincare,Eye Care,2014,9,4.17,47,56.36,
+Skincare,Eye Care,2014,10,3.67,45,59.71,
+Skincare,Eye Care,2014,11,4.2,75,51.64,
+Skincare,Eye Care,2014,12,4.1,94,55.46,
+Skincare,Eye Care,2015,1,3.96,117,51.41,
+Skincare,Eye Care,2015,2,3.95,76,56.64,
+Skincare,Eye Care,2015,3,4.14,74,54.69,
+Skincare,Eye Care,2015,4,3.71,84,54.02,
+Skincare,Eye Care,2015,5,3.87,79,53.73,
+Skincare,Eye Care,2015,6,4.08,50,51.02,
+Skincare,Eye Care,2015,7,3.87,47,51.53,
+Skincare,Eye Care,2015,8,4.16,45,54.91,
+Skincare,Eye Care,2015,9,4.02,46,54.33,
+Skincare,Eye Care,2015,10,4.02,42,58.19,
+Skincare,Eye Care,2015,11,4.03,96,56.69,
+Skincare,Eye Care,2015,12,3.75,111,56.24,
+Skincare,Eye Care,2016,1,3.9,112,48.83,
+Skincare,Eye Care,2016,2,3.69,121,47.11,
+Skincare,Eye Care,2016,3,3.71,156,51.58,
+Skincare,Eye Care,2016,4,3.74,162,51.77,
+Skincare,Eye Care,2016,5,3.81,114,47.15,
+Skincare,Eye Care,2016,6,3.85,72,53.65,
+Skincare,Eye Care,2016,7,3.92,84,53.61,
+Skincare,Eye Care,2016,8,3.82,105,50.01,
+Skincare,Eye Care,2016,9,3.99,119,49.63,
+Skincare,Eye Care,2016,10,3.66,134,50.91,
+Skincare,Eye Care,2016,11,3.92,153,52.18,
+Skincare,Eye Care,2016,12,3.86,159,52.78,
+Skincare,Eye Care,2017,1,4.02,171,49.86,
+Skincare,Eye Care,2017,2,3.89,148,51.36,
+Skincare,Eye Care,2017,3,3.92,90,62.81,
+Skincare,Eye Care,2017,4,3.78,104,57.16,
+Skincare,Eye Care,2017,5,3.98,92,55.12,
+Skincare,Eye Care,2017,6,3.87,121,50.26,
+Skincare,Eye Care,2017,7,3.91,142,51.68,
+Skincare,Eye Care,2017,8,4.21,150,51.95,0.71
+Skincare,Eye Care,2017,9,4.11,243,53.08,0.78
+Skincare,Eye Care,2017,10,4.13,142,51.4,0.8
+Skincare,Eye Care,2017,11,4.39,399,51.24,0.86
+Skincare,Eye Care,2017,12,4.32,707,52.09,0.85
+Skincare,Eye Care,2018,1,4.02,618,51.5,0.76
+Skincare,Eye Care,2018,2,3.9,356,50.3,0.72
+Skincare,Eye Care,2018,3,4.09,432,50.81,0.76
+Skincare,Eye Care,2018,4,3.98,425,52.57,0.72
+Skincare,Eye Care,2018,5,4.03,350,55.3,0.76
+Skincare,Eye Care,2018,6,4.04,262,52.66,0.75
+Skincare,Eye Care,2018,7,4.16,519,49.06,0.82
+Skincare,Eye Care,2018,8,4.32,524,51.35,0.86
+Skincare,Eye Care,2018,9,3.92,305,52.75,0.72
+Skincare,Eye Care,2018,10,3.88,289,51.31,0.72
+Skincare,Eye Care,2018,11,3.89,281,53.61,0.7
+Skincare,Eye Care,2018,12,3.83,268,51.42,0.71
+Skincare,Eye Care,2019,1,3.74,346,52.96,0.68
+Skincare,Eye Care,2019,2,3.69,354,51.0,0.66
+Skincare,Eye Care,2019,3,3.83,355,48.32,0.68
+Skincare,Eye Care,2019,4,3.96,363,49.11,0.74
+Skincare,Eye Care,2019,5,4.07,583,47.58,0.78
+Skincare,Eye Care,2019,6,4.06,409,42.83,0.78
+Skincare,Eye Care,2019,7,4.1,469,47.96,0.79
+Skincare,Eye Care,2019,8,4.41,1878,60.03,0.89
+Skincare,Eye Care,2019,9,4.17,1462,55.91,0.84
+Skincare,Eye Care,2019,10,3.96,751,55.31,0.75
+Skincare,Eye Care,2019,11,3.51,359,50.47,0.6
+Skincare,Eye Care,2019,12,4.24,1556,56.54,0.85
+Skincare,Eye Care,2020,1,4.28,2598,55.09,0.87
+Skincare,Eye Care,2020,2,3.87,772,59.53,0.71
+Skincare,Eye Care,2020,3,4.24,1790,47.69,0.86
+Skincare,Eye Care,2020,4,3.98,1720,48.38,0.77
+Skincare,Eye Care,2020,5,4.06,1057,86.89,0.76
+Skincare,Eye Care,2020,6,4.09,973,49.6,0.79
+Skincare,Eye Care,2020,7,4.01,860,48.71,0.77
+Skincare,Eye Care,2020,8,4.05,932,53.91,0.77
+Skincare,Eye Care,2020,9,3.89,531,54.71,0.71
+Skincare,Eye Care,2020,10,3.85,612,57.5,0.71
+Skincare,Eye Care,2020,11,4.19,696,52.31,0.81
+Skincare,Eye Care,2020,12,4.01,646,51.4,0.75
+Skincare,Eye Care,2021,1,4.25,1552,56.06,0.83
+Skincare,Eye Care,2021,2,4.09,1011,53.21,0.78
+Skincare,Eye Care,2021,3,4.38,2042,49.74,0.87
+Skincare,Eye Care,2021,4,4.14,1191,46.43,0.8
+Skincare,Eye Care,2021,5,4.3,1473,80.88,0.84
+Skincare,Eye Care,2021,6,4.42,2042,84.54,0.88
+Skincare,Eye Care,2021,7,4.31,972,58.59,0.85
+Skincare,Eye Care,2021,8,4.31,741,57.01,0.84
+Skincare,Eye Care,2021,9,4.63,3011,64.79,0.94
+Skincare,Eye Care,2021,10,4.25,1279,46.44,0.84
+Skincare,Eye Care,2021,11,3.83,477,50.15,0.7
+Skincare,Eye Care,2021,12,4.0,691,48.38,0.76
+Skincare,Eye Care,2022,1,4.32,2490,48.8,0.87
+Skincare,Eye Care,2022,2,4.1,874,51.5,0.79
+Skincare,Eye Care,2022,3,4.18,1412,63.95,0.82
+Skincare,Eye Care,2022,4,4.19,1547,61.17,0.83
+Skincare,Eye Care,2022,5,4.14,797,60.9,0.82
+Skincare,Eye Care,2022,6,4.37,1770,64.3,0.89
+Skincare,Eye Care,2022,7,4.39,2005,60.19,0.89
+Skincare,Eye Care,2022,8,4.35,1663,59.74,0.87
+Skincare,Eye Care,2022,9,4.49,2145,46.66,0.9
+Skincare,Eye Care,2022,10,4.12,1111,53.44,0.86
+Skincare,Eye Care,2022,11,4.12,831,51.81,0.84
+Skincare,Eye Care,2022,12,4.53,1167,72.39,0.91
+Skincare,Eye Care,2023,1,4.2,1352,56.28,0.82
+Skincare,Eye Care,2023,2,3.82,1280,44.13,0.72
+Skincare,Eye Care,2023,3,4.04,1055,51.44,0.76
+Skincare,High Tech Tools,2014,3,5.0,2,439.0,
+Skincare,High Tech Tools,2014,4,4.0,2,439.0,
+Skincare,High Tech Tools,2014,5,1.0,4,439.0,
+Skincare,High Tech Tools,2014,6,5.0,2,439.0,
+Skincare,High Tech Tools,2014,11,4.0,2,439.0,
+Skincare,High Tech Tools,2014,12,5.0,2,439.0,
+Skincare,High Tech Tools,2015,1,4.0,4,439.0,
+Skincare,High Tech Tools,2015,2,5.0,3,303.33,
+Skincare,High Tech Tools,2015,3,5.0,1,449.0,
+Skincare,High Tech Tools,2015,4,5.0,1,65.0,
+Skincare,High Tech Tools,2015,5,3.67,6,333.33,
+Skincare,High Tech Tools,2015,6,3.25,4,65.0,
+Skincare,High Tech Tools,2015,7,3.0,3,54.0,
+Skincare,High Tech Tools,2015,8,4.75,16,308.12,
+Skincare,High Tech Tools,2015,9,5.0,3,449.0,
+Skincare,High Tech Tools,2015,10,5.0,1,449.0,
+Skincare,High Tech Tools,2015,11,3.94,16,375.25,
+Skincare,High Tech Tools,2015,12,4.06,17,317.53,
+Skincare,High Tech Tools,2016,1,3.67,6,343.33,
+Skincare,High Tech Tools,2016,2,4.67,9,301.22,
+Skincare,High Tech Tools,2016,3,5.0,4,314.0,
+Skincare,High Tech Tools,2016,4,4.0,7,385.57,
+Skincare,High Tech Tools,2016,5,3.82,11,329.91,
+Skincare,High Tech Tools,2016,6,2.75,12,423.17,
+Skincare,High Tech Tools,2016,7,3.33,3,237.67,
+Skincare,High Tech Tools,2016,8,3.45,11,343.55,
+Skincare,High Tech Tools,2016,9,4.25,4,135.5,
+Skincare,High Tech Tools,2016,10,4.6,5,206.2,
+Skincare,High Tech Tools,2016,11,4.14,7,200.43,
+Skincare,High Tech Tools,2016,12,4.83,12,128.83,
+Skincare,High Tech Tools,2017,1,4.5,32,74.94,
+Skincare,High Tech Tools,2017,2,3.63,38,65.42,
+Skincare,High Tech Tools,2017,3,4.65,17,60.18,
+Skincare,High Tech Tools,2017,4,4.1,20,97.1,
+Skincare,High Tech Tools,2017,5,3.7,10,140.6,
+Skincare,High Tech Tools,2017,6,4.89,9,54.78,
+Skincare,High Tech Tools,2017,7,3.79,14,67.71,
+Skincare,High Tech Tools,2017,8,3.94,17,101.94,1.0
+Skincare,High Tech Tools,2017,9,4.52,25,148.2,0.96
+Skincare,High Tech Tools,2017,10,3.89,9,74.11,0.67
+Skincare,High Tech Tools,2017,11,4.13,15,123.53,0.87
+Skincare,High Tech Tools,2017,12,4.41,22,167.73,0.86
+Skincare,High Tech Tools,2018,1,4.38,29,52.72,0.9
+Skincare,High Tech Tools,2018,2,4.35,31,194.68,0.87
+Skincare,High Tech Tools,2018,3,4.52,29,219.17,0.93
+Skincare,High Tech Tools,2018,4,3.57,21,134.76,0.67
+Skincare,High Tech Tools,2018,5,4.46,28,88.93,0.86
+Skincare,High Tech Tools,2018,6,4.07,29,160.59,0.79
+Skincare,High Tech Tools,2018,7,4.08,83,115.61,0.8
+Skincare,High Tech Tools,2018,8,4.39,92,145.35,0.87
+Skincare,High Tech Tools,2018,9,4.2,56,123.41,0.82
+Skincare,High Tech Tools,2018,10,3.82,34,123.65,0.68
+Skincare,High Tech Tools,2018,11,4.0,40,116.22,0.7
+Skincare,High Tech Tools,2018,12,4.19,26,53.88,0.77
+Skincare,High Tech Tools,2019,1,4.23,56,106.73,0.8
+Skincare,High Tech Tools,2019,2,3.91,44,107.98,0.7
+Skincare,High Tech Tools,2019,3,3.79,33,96.06,0.67
+Skincare,High Tech Tools,2019,4,3.94,34,130.85,0.71
+Skincare,High Tech Tools,2019,5,4.12,32,113.28,0.81
+Skincare,High Tech Tools,2019,6,3.69,36,90.69,0.72
+Skincare,High Tech Tools,2019,7,4.15,26,97.85,0.77
+Skincare,High Tech Tools,2019,8,3.5,42,106.86,0.6
+Skincare,High Tech Tools,2019,9,4.45,33,66.61,0.88
+Skincare,High Tech Tools,2019,10,3.17,23,127.65,0.57
+Skincare,High Tech Tools,2019,11,3.74,50,169.82,0.68
+Skincare,High Tech Tools,2019,12,3.92,53,104.08,0.7
+Skincare,High Tech Tools,2020,1,3.23,39,107.26,0.51
+Skincare,High Tech Tools,2020,2,3.52,40,127.05,0.65
+Skincare,High Tech Tools,2020,3,3.39,46,143.43,0.61
+Skincare,High Tech Tools,2020,4,3.69,98,141.79,0.65
+Skincare,High Tech Tools,2020,5,4.03,110,197.37,0.79
+Skincare,High Tech Tools,2020,6,3.88,65,122.54,0.71
+Skincare,High Tech Tools,2020,7,3.34,76,149.05,0.57
+Skincare,High Tech Tools,2020,8,3.82,89,124.53,0.69
+Skincare,High Tech Tools,2020,9,4.3,67,82.66,0.87
+Skincare,High Tech Tools,2020,10,4.45,64,100.48,0.91
+Skincare,High Tech Tools,2020,11,4.01,76,116.93,0.76
+Skincare,High Tech Tools,2020,12,3.95,85,95.05,0.76
+Skincare,High Tech Tools,2021,1,4.17,114,118.0,0.82
+Skincare,High Tech Tools,2021,2,3.98,87,150.69,0.7
+Skincare,High Tech Tools,2021,3,4.1,109,118.11,0.79
+Skincare,High Tech Tools,2021,4,4.16,171,167.93,0.8
+Skincare,High Tech Tools,2021,5,3.9,109,84.61,0.76
+Skincare,High Tech Tools,2021,6,4.35,170,91.31,0.85
+Skincare,High Tech Tools,2021,7,4.05,84,96.4,0.77
+Skincare,High Tech Tools,2021,8,4.18,66,83.95,0.82
+Skincare,High Tech Tools,2021,9,3.89,90,128.57,0.74
+Skincare,High Tech Tools,2021,10,3.93,70,89.0,0.71
+Skincare,High Tech Tools,2021,11,3.96,121,79.09,0.78
+Skincare,High Tech Tools,2021,12,4.53,326,143.61,0.91
+Skincare,High Tech Tools,2022,1,4.29,272,63.2,0.83
+Skincare,High Tech Tools,2022,2,4.56,472,184.12,0.94
+Skincare,High Tech Tools,2022,3,4.3,256,83.8,0.84
+Skincare,High Tech Tools,2022,4,4.44,182,71.7,0.87
+Skincare,High Tech Tools,2022,5,4.18,57,63.88,0.79
+Skincare,High Tech Tools,2022,6,3.55,51,99.61,0.65
+Skincare,High Tech Tools,2022,7,4.61,137,77.45,0.91
+Skincare,High Tech Tools,2022,8,4.28,120,68.26,0.83
+Skincare,High Tech Tools,2022,9,4.45,102,251.24,0.89
+Skincare,High Tech Tools,2022,10,4.75,131,179.82,0.95
+Skincare,High Tech Tools,2022,11,4.0,29,118.69,0.72
+Skincare,High Tech Tools,2022,12,3.65,60,64.02,0.7
+Skincare,High Tech Tools,2023,1,4.32,142,222.88,0.88
+Skincare,High Tech Tools,2023,2,4.19,139,198.42,0.83
+Skincare,High Tech Tools,2023,3,4.06,35,103.94,0.74
+Skincare,Lip Balms & Treatments,2008,8,4.8,5,11.2,
+Skincare,Lip Balms & Treatments,2008,9,4.62,266,8.33,
+Skincare,Lip Balms & Treatments,2008,10,4.69,84,9.71,
+Skincare,Lip Balms & Treatments,2008,11,4.61,95,8.84,
+Skincare,Lip Balms & Treatments,2008,12,4.65,120,8.86,
+Skincare,Lip Balms & Treatments,2009,1,4.63,108,9.59,
+Skincare,Lip Balms & Treatments,2009,2,4.73,81,9.65,
+Skincare,Lip Balms & Treatments,2009,3,4.72,193,8.61,
+Skincare,Lip Balms & Treatments,2009,4,4.68,200,8.46,
+Skincare,Lip Balms & Treatments,2009,5,4.69,221,8.31,
+Skincare,Lip Balms & Treatments,2009,6,4.74,143,8.03,
+Skincare,Lip Balms & Treatments,2009,7,4.69,125,9.01,
+Skincare,Lip Balms & Treatments,2009,8,4.78,226,8.54,
+Skincare,Lip Balms & Treatments,2009,9,4.7,168,8.46,
+Skincare,Lip Balms & Treatments,2009,10,4.71,167,8.25,
+Skincare,Lip Balms & Treatments,2009,11,4.6,124,8.25,
+Skincare,Lip Balms & Treatments,2009,12,4.63,253,8.82,
+Skincare,Lip Balms & Treatments,2010,1,4.7,310,8.25,
+Skincare,Lip Balms & Treatments,2010,2,4.68,216,8.57,
+Skincare,Lip Balms & Treatments,2010,3,4.74,218,8.48,
+Skincare,Lip Balms & Treatments,2010,4,4.69,222,8.02,
+Skincare,Lip Balms & Treatments,2010,5,4.69,207,8.57,
+Skincare,Lip Balms & Treatments,2010,6,4.76,157,8.84,
+Skincare,Lip Balms & Treatments,2010,7,4.64,208,8.57,
+Skincare,Lip Balms & Treatments,2010,8,4.64,231,8.29,
+Skincare,Lip Balms & Treatments,2010,9,4.71,92,8.17,
+Skincare,Lip Balms & Treatments,2010,10,4.76,143,8.13,
+Skincare,Lip Balms & Treatments,2010,11,4.64,166,8.2,
+Skincare,Lip Balms & Treatments,2010,12,4.62,280,8.34,
+Skincare,Lip Balms & Treatments,2011,1,4.55,280,8.58,
+Skincare,Lip Balms & Treatments,2011,2,4.65,154,7.96,
+Skincare,Lip Balms & Treatments,2011,3,4.58,200,8.49,
+Skincare,Lip Balms & Treatments,2011,4,4.69,154,7.98,
+Skincare,Lip Balms & Treatments,2011,5,4.65,133,8.41,
+Skincare,Lip Balms & Treatments,2011,6,4.48,126,8.54,
+Skincare,Lip Balms & Treatments,2011,7,4.66,114,8.22,
+Skincare,Lip Balms & Treatments,2011,8,4.79,140,8.18,
+Skincare,Lip Balms & Treatments,2011,9,4.67,42,8.19,
+Skincare,Lip Balms & Treatments,2011,10,4.52,129,8.45,
+Skincare,Lip Balms & Treatments,2011,11,4.68,183,9.69,
+Skincare,Lip Balms & Treatments,2011,12,4.69,235,9.57,
+Skincare,Lip Balms & Treatments,2012,1,4.64,307,13.15,
+Skincare,Lip Balms & Treatments,2012,2,4.55,225,12.95,
+Skincare,Lip Balms & Treatments,2012,3,4.6,186,13.35,
+Skincare,Lip Balms & Treatments,2012,4,4.56,78,12.0,
+Skincare,Lip Balms & Treatments,2012,5,4.55,71,12.61,
+Skincare,Lip Balms & Treatments,2012,6,4.66,83,11.46,
+Skincare,Lip Balms & Treatments,2012,7,4.38,120,12.83,
+Skincare,Lip Balms & Treatments,2012,8,4.63,108,11.21,
+Skincare,Lip Balms & Treatments,2012,9,4.56,117,12.42,
+Skincare,Lip Balms & Treatments,2012,10,4.52,101,13.16,
+Skincare,Lip Balms & Treatments,2012,11,4.75,152,11.33,
+Skincare,Lip Balms & Treatments,2012,12,4.7,200,11.82,
+Skincare,Lip Balms & Treatments,2013,1,4.59,251,13.11,
+Skincare,Lip Balms & Treatments,2013,2,4.64,140,13.42,
+Skincare,Lip Balms & Treatments,2013,3,4.74,180,13.2,
+Skincare,Lip Balms & Treatments,2013,4,4.68,129,13.1,
+Skincare,Lip Balms & Treatments,2013,5,4.7,139,12.96,
+Skincare,Lip Balms & Treatments,2013,6,4.6,84,12.01,
+Skincare,Lip Balms & Treatments,2013,7,4.62,91,11.53,
+Skincare,Lip Balms & Treatments,2013,8,4.74,91,11.85,
+Skincare,Lip Balms & Treatments,2013,9,4.74,100,14.18,
+Skincare,Lip Balms & Treatments,2013,10,4.47,114,14.09,
+Skincare,Lip Balms & Treatments,2013,11,4.46,145,14.27,
+Skincare,Lip Balms & Treatments,2013,12,4.35,159,12.06,
+Skincare,Lip Balms & Treatments,2014,1,4.43,181,12.36,
+Skincare,Lip Balms & Treatments,2014,2,4.53,143,12.31,
+Skincare,Lip Balms & Treatments,2014,3,4.73,124,11.35,
+Skincare,Lip Balms & Treatments,2014,4,4.37,167,12.37,
+Skincare,Lip Balms & Treatments,2014,5,4.6,134,10.89,
+Skincare,Lip Balms & Treatments,2014,6,4.23,128,12.88,
+Skincare,Lip Balms & Treatments,2014,7,4.38,112,11.92,
+Skincare,Lip Balms & Treatments,2014,8,4.29,98,11.83,
+Skincare,Lip Balms & Treatments,2014,9,4.37,105,13.17,
+Skincare,Lip Balms & Treatments,2014,10,4.51,82,11.29,
+Skincare,Lip Balms & Treatments,2014,11,4.57,143,11.77,
+Skincare,Lip Balms & Treatments,2014,12,4.55,161,12.25,
+Skincare,Lip Balms & Treatments,2015,1,4.49,189,12.96,
+Skincare,Lip Balms & Treatments,2015,2,4.44,126,12.93,
+Skincare,Lip Balms & Treatments,2015,3,4.42,121,13.4,
+Skincare,Lip Balms & Treatments,2015,4,4.53,135,11.09,
+Skincare,Lip Balms & Treatments,2015,5,4.49,111,12.15,
+Skincare,Lip Balms & Treatments,2015,6,4.51,85,12.38,
+Skincare,Lip Balms & Treatments,2015,7,4.38,71,12.85,
+Skincare,Lip Balms & Treatments,2015,8,4.56,41,13.2,
+Skincare,Lip Balms & Treatments,2015,9,4.57,49,11.93,
+Skincare,Lip Balms & Treatments,2015,10,4.18,60,14.07,
+Skincare,Lip Balms & Treatments,2015,11,4.43,141,13.06,
+Skincare,Lip Balms & Treatments,2015,12,4.55,222,11.86,
+Skincare,Lip Balms & Treatments,2016,1,4.35,221,12.65,
+Skincare,Lip Balms & Treatments,2016,2,4.39,187,14.05,
+Skincare,Lip Balms & Treatments,2016,3,4.3,120,13.94,
+Skincare,Lip Balms & Treatments,2016,4,4.35,160,13.44,
+Skincare,Lip Balms & Treatments,2016,5,4.4,110,13.22,
+Skincare,Lip Balms & Treatments,2016,6,4.45,102,12.75,
+Skincare,Lip Balms & Treatments,2016,7,4.42,102,13.39,
+Skincare,Lip Balms & Treatments,2016,8,4.47,107,12.53,
+Skincare,Lip Balms & Treatments,2016,9,4.4,85,11.31,
+Skincare,Lip Balms & Treatments,2016,10,4.37,92,13.54,
+Skincare,Lip Balms & Treatments,2016,11,4.2,141,15.27,
+Skincare,Lip Balms & Treatments,2016,12,4.51,198,13.09,
+Skincare,Lip Balms & Treatments,2017,1,4.41,193,13.08,
+Skincare,Lip Balms & Treatments,2017,2,4.15,140,15.99,
+Skincare,Lip Balms & Treatments,2017,3,4.28,82,19.73,
+Skincare,Lip Balms & Treatments,2017,4,4.18,80,18.06,
+Skincare,Lip Balms & Treatments,2017,5,4.23,77,17.73,
+Skincare,Lip Balms & Treatments,2017,6,4.61,135,20.34,
+Skincare,Lip Balms & Treatments,2017,7,4.56,248,20.45,
+Skincare,Lip Balms & Treatments,2017,8,4.5,219,18.67,0.97
+Skincare,Lip Balms & Treatments,2017,9,4.52,551,18.72,0.89
+Skincare,Lip Balms & Treatments,2017,10,4.54,315,20.35,0.9
+Skincare,Lip Balms & Treatments,2017,11,4.36,378,19.89,0.84
+Skincare,Lip Balms & Treatments,2017,12,4.21,469,20.27,0.78
+Skincare,Lip Balms & Treatments,2018,1,4.45,759,20.0,0.86
+Skincare,Lip Balms & Treatments,2018,2,4.47,725,20.9,0.87
+Skincare,Lip Balms & Treatments,2018,3,4.42,592,20.52,0.85
+Skincare,Lip Balms & Treatments,2018,4,4.37,654,21.02,0.83
+Skincare,Lip Balms & Treatments,2018,5,4.53,524,20.47,0.9
+Skincare,Lip Balms & Treatments,2018,6,4.58,530,22.01,0.91
+Skincare,Lip Balms & Treatments,2018,7,4.47,732,22.34,0.9
+Skincare,Lip Balms & Treatments,2018,8,4.46,441,21.59,0.88
+Skincare,Lip Balms & Treatments,2018,9,4.44,463,21.41,0.85
+Skincare,Lip Balms & Treatments,2018,10,4.28,458,22.14,0.81
+Skincare,Lip Balms & Treatments,2018,11,4.25,458,21.24,0.79
+Skincare,Lip Balms & Treatments,2018,12,4.32,600,25.13,0.83
+Skincare,Lip Balms & Treatments,2019,1,4.37,749,21.9,0.85
+Skincare,Lip Balms & Treatments,2019,2,4.39,873,22.77,0.86
+Skincare,Lip Balms & Treatments,2019,3,4.32,721,22.11,0.82
+Skincare,Lip Balms & Treatments,2019,4,4.47,1398,20.1,0.88
+Skincare,Lip Balms & Treatments,2019,5,4.39,1397,21.76,0.86
+Skincare,Lip Balms & Treatments,2019,6,4.39,1042,21.47,0.85
+Skincare,Lip Balms & Treatments,2019,7,4.29,611,21.36,0.81
+Skincare,Lip Balms & Treatments,2019,8,4.3,582,21.18,0.82
+Skincare,Lip Balms & Treatments,2019,9,4.24,502,21.89,0.8
+Skincare,Lip Balms & Treatments,2019,10,4.1,382,21.77,0.77
+Skincare,Lip Balms & Treatments,2019,11,3.99,524,21.56,0.74
+Skincare,Lip Balms & Treatments,2019,12,4.1,1027,20.58,0.77
+Skincare,Lip Balms & Treatments,2020,1,3.93,952,22.99,0.71
+Skincare,Lip Balms & Treatments,2020,2,4.0,682,23.31,0.73
+Skincare,Lip Balms & Treatments,2020,3,4.09,633,22.06,0.75
+Skincare,Lip Balms & Treatments,2020,4,4.17,1346,22.56,0.77
+Skincare,Lip Balms & Treatments,2020,5,4.41,1658,29.6,0.85
+Skincare,Lip Balms & Treatments,2020,6,4.16,959,23.15,0.78
+Skincare,Lip Balms & Treatments,2020,7,4.19,600,22.24,0.78
+Skincare,Lip Balms & Treatments,2020,8,4.16,604,21.75,0.78
+Skincare,Lip Balms & Treatments,2020,9,4.09,429,20.95,0.75
+Skincare,Lip Balms & Treatments,2020,10,4.04,360,21.79,0.74
+Skincare,Lip Balms & Treatments,2020,11,3.96,376,22.1,0.72
+Skincare,Lip Balms & Treatments,2020,12,3.78,444,22.55,0.67
+Skincare,Lip Balms & Treatments,2021,1,4.16,926,21.54,0.78
+Skincare,Lip Balms & Treatments,2021,2,4.37,1062,21.4,0.85
+Skincare,Lip Balms & Treatments,2021,3,4.02,637,20.63,0.73
+Skincare,Lip Balms & Treatments,2021,4,4.01,717,21.42,0.73
+Skincare,Lip Balms & Treatments,2021,5,4.0,429,21.38,0.73
+Skincare,Lip Balms & Treatments,2021,6,3.96,407,21.32,0.72
+Skincare,Lip Balms & Treatments,2021,7,4.45,774,24.44,0.87
+Skincare,Lip Balms & Treatments,2021,8,4.4,586,23.56,0.87
+Skincare,Lip Balms & Treatments,2021,9,4.18,554,21.78,0.81
+Skincare,Lip Balms & Treatments,2021,10,4.25,835,21.91,0.83
+Skincare,Lip Balms & Treatments,2021,11,4.25,872,21.5,0.83
+Skincare,Lip Balms & Treatments,2021,12,4.09,828,22.06,0.78
+Skincare,Lip Balms & Treatments,2022,1,4.08,635,21.66,0.75
+Skincare,Lip Balms & Treatments,2022,2,3.93,420,21.32,0.72
+Skincare,Lip Balms & Treatments,2022,3,3.86,402,20.34,0.7
+Skincare,Lip Balms & Treatments,2022,4,4.05,622,21.72,0.75
+Skincare,Lip Balms & Treatments,2022,5,4.2,327,20.58,0.8
+Skincare,Lip Balms & Treatments,2022,6,4.59,1138,23.56,0.92
+Skincare,Lip Balms & Treatments,2022,7,4.5,1045,23.49,0.88
+Skincare,Lip Balms & Treatments,2022,8,4.35,791,15.48,0.85
+Skincare,Lip Balms & Treatments,2022,9,4.12,573,19.26,0.77
+Skincare,Lip Balms & Treatments,2022,10,4.17,379,21.79,0.8
+Skincare,Lip Balms & Treatments,2022,11,4.09,375,22.22,0.76
+Skincare,Lip Balms & Treatments,2022,12,4.03,418,20.64,0.76
+Skincare,Lip Balms & Treatments,2023,1,4.06,771,20.98,0.75
+Skincare,Lip Balms & Treatments,2023,2,3.95,867,20.73,0.72
+Skincare,Lip Balms & Treatments,2023,3,4.19,780,31.56,0.79
+Skincare,Masks,2008,9,4.43,49,62.9,
+Skincare,Masks,2008,10,4.27,22,65.09,
+Skincare,Masks,2008,11,4.21,24,67.83,
+Skincare,Masks,2008,12,4.1,21,62.1,
+Skincare,Masks,2009,1,3.83,12,65.17,
+Skincare,Masks,2009,2,4.58,19,66.95,
+Skincare,Masks,2009,3,4.51,39,64.31,
+Skincare,Masks,2009,4,4.38,40,60.6,
+Skincare,Masks,2009,5,4.18,40,62.4,
+Skincare,Masks,2009,6,4.04,27,59.7,
+Skincare,Masks,2009,7,4.16,19,57.05,
+Skincare,Masks,2009,8,4.38,32,57.62,
+Skincare,Masks,2009,9,4.31,26,62.65,
+Skincare,Masks,2009,10,4.46,26,59.77,
+Skincare,Masks,2009,11,4.23,26,68.0,
+Skincare,Masks,2009,12,4.24,17,59.24,
+Skincare,Masks,2010,1,4.51,35,66.97,
+Skincare,Masks,2010,2,4.71,28,62.57,
+Skincare,Masks,2010,3,4.61,18,64.5,
+Skincare,Masks,2010,4,4.24,25,64.8,
+Skincare,Masks,2010,5,3.92,26,65.46,
+Skincare,Masks,2010,6,4.21,24,55.92,
+Skincare,Masks,2010,7,4.17,30,57.77,
+Skincare,Masks,2010,8,4.14,35,54.29,
+Skincare,Masks,2010,9,4.06,17,62.18,
+Skincare,Masks,2010,10,4.5,26,62.54,
+Skincare,Masks,2010,11,4.53,40,60.15,
+Skincare,Masks,2010,12,4.39,54,56.41,
+Skincare,Masks,2011,1,4.34,44,60.34,
+Skincare,Masks,2011,2,4.41,32,54.19,
+Skincare,Masks,2011,3,3.9,40,57.88,
+Skincare,Masks,2011,4,3.96,24,60.5,
+Skincare,Masks,2011,5,4.54,35,59.11,
+Skincare,Masks,2011,6,4.38,29,58.72,
+Skincare,Masks,2011,7,4.35,20,55.65,
+Skincare,Masks,2011,8,4.55,20,58.2,
+Skincare,Masks,2011,9,4.53,19,56.05,
+Skincare,Masks,2011,10,4.41,37,47.86,
+Skincare,Masks,2011,11,4.55,58,51.1,
+Skincare,Masks,2011,12,4.62,61,57.28,
+Skincare,Masks,2012,1,4.47,76,37.79,
+Skincare,Masks,2012,2,4.56,66,33.26,
+Skincare,Masks,2012,3,4.54,59,36.58,
+Skincare,Masks,2012,4,4.56,27,30.07,
+Skincare,Masks,2012,5,4.3,46,38.37,
+Skincare,Masks,2012,6,4.56,48,43.21,
+Skincare,Masks,2012,7,4.29,52,37.23,
+Skincare,Masks,2012,8,4.35,46,37.17,
+Skincare,Masks,2012,9,4.22,49,39.41,
+Skincare,Masks,2012,10,4.5,48,41.19,
+Skincare,Masks,2012,11,4.28,85,32.72,
+Skincare,Masks,2012,12,4.44,85,39.24,
+Skincare,Masks,2013,1,4.39,127,36.56,
+Skincare,Masks,2013,2,4.36,80,44.8,
+Skincare,Masks,2013,3,4.44,87,40.53,
+Skincare,Masks,2013,4,4.4,109,44.73,
+Skincare,Masks,2013,5,4.55,76,45.09,
+Skincare,Masks,2013,6,4.53,85,46.68,
+Skincare,Masks,2013,7,4.29,73,44.16,
+Skincare,Masks,2013,8,4.58,97,43.35,
+Skincare,Masks,2013,9,4.6,87,42.78,
+Skincare,Masks,2013,10,4.43,99,51.45,
+Skincare,Masks,2013,11,4.42,95,42.88,
+Skincare,Masks,2013,12,4.42,148,47.26,
+Skincare,Masks,2014,1,4.38,148,37.56,
+Skincare,Masks,2014,2,4.24,138,39.54,
+Skincare,Masks,2014,3,4.25,119,43.29,
+Skincare,Masks,2014,4,4.41,148,45.56,
+Skincare,Masks,2014,5,4.25,115,49.96,
+Skincare,Masks,2014,6,4.5,132,44.23,
+Skincare,Masks,2014,7,4.23,150,46.17,
+Skincare,Masks,2014,8,4.36,100,42.13,
+Skincare,Masks,2014,9,4.34,91,44.42,
+Skincare,Masks,2014,10,4.54,93,44.82,
+Skincare,Masks,2014,11,4.44,130,48.82,
+Skincare,Masks,2014,12,4.56,171,47.96,
+Skincare,Masks,2015,1,4.33,198,51.75,
+Skincare,Masks,2015,2,4.26,201,55.11,
+Skincare,Masks,2015,3,4.29,229,54.02,
+Skincare,Masks,2015,4,4.43,205,49.33,
+Skincare,Masks,2015,5,4.39,192,50.78,
+Skincare,Masks,2015,6,4.25,173,49.32,
+Skincare,Masks,2015,7,4.23,202,45.44,
+Skincare,Masks,2015,8,4.35,197,43.19,
+Skincare,Masks,2015,9,4.43,177,41.27,
+Skincare,Masks,2015,10,4.4,161,45.93,
+Skincare,Masks,2015,11,4.26,289,45.24,
+Skincare,Masks,2015,12,4.28,338,46.1,
+Skincare,Masks,2016,1,4.44,370,43.51,
+Skincare,Masks,2016,2,4.37,268,45.28,
+Skincare,Masks,2016,3,4.5,243,43.21,
+Skincare,Masks,2016,4,4.34,305,45.28,
+Skincare,Masks,2016,5,4.29,328,44.1,
+Skincare,Masks,2016,6,4.38,289,42.28,
+Skincare,Masks,2016,7,4.36,315,45.01,
+Skincare,Masks,2016,8,4.45,337,50.31,
+Skincare,Masks,2016,9,4.3,306,51.69,
+Skincare,Masks,2016,10,4.1,299,50.6,
+Skincare,Masks,2016,11,4.19,358,48.47,
+Skincare,Masks,2016,12,4.39,377,46.12,
+Skincare,Masks,2017,1,4.51,543,51.22,
+Skincare,Masks,2017,2,4.32,370,50.46,
+Skincare,Masks,2017,3,4.32,261,48.6,
+Skincare,Masks,2017,4,4.37,242,51.14,
+Skincare,Masks,2017,5,4.48,282,54.14,
+Skincare,Masks,2017,6,4.33,251,58.97,
+Skincare,Masks,2017,7,4.27,485,66.73,
+Skincare,Masks,2017,8,4.18,440,62.09,0.9
+Skincare,Masks,2017,9,4.53,852,43.62,0.91
+Skincare,Masks,2017,10,4.57,428,49.25,0.92
+Skincare,Masks,2017,11,4.35,442,49.84,0.85
+Skincare,Masks,2017,12,4.43,430,51.84,0.87
+Skincare,Masks,2018,1,4.54,932,54.1,0.9
+Skincare,Masks,2018,2,4.5,823,54.22,0.91
+Skincare,Masks,2018,3,4.38,898,46.15,0.85
+Skincare,Masks,2018,4,4.23,1180,41.7,0.82
+Skincare,Masks,2018,5,4.45,1268,43.56,0.89
+Skincare,Masks,2018,6,4.57,1121,42.73,0.92
+Skincare,Masks,2018,7,4.48,835,45.6,0.9
+Skincare,Masks,2018,8,4.54,1034,43.66,0.91
+Skincare,Masks,2018,9,4.35,628,49.05,0.83
+Skincare,Masks,2018,10,4.22,571,50.67,0.8
+Skincare,Masks,2018,11,4.21,564,53.23,0.79
+Skincare,Masks,2018,12,4.21,530,48.74,0.78
+Skincare,Masks,2019,1,4.15,796,49.22,0.79
+Skincare,Masks,2019,2,4.22,871,48.51,0.8
+Skincare,Masks,2019,3,4.33,809,51.94,0.84
+Skincare,Masks,2019,4,4.37,1505,39.12,0.87
+Skincare,Masks,2019,5,4.13,1054,43.45,0.8
+Skincare,Masks,2019,6,4.13,552,45.23,0.78
+Skincare,Masks,2019,7,4.47,1091,43.72,0.87
+Skincare,Masks,2019,8,4.32,1990,49.65,0.88
+Skincare,Masks,2019,9,4.23,974,48.13,0.83
+Skincare,Masks,2019,10,4.28,1156,40.97,0.86
+Skincare,Masks,2019,11,4.1,987,40.95,0.79
+Skincare,Masks,2019,12,4.06,883,41.62,0.78
+Skincare,Masks,2020,1,4.32,1307,43.43,0.84
+Skincare,Masks,2020,2,4.19,990,47.86,0.81
+Skincare,Masks,2020,3,4.1,592,45.02,0.76
+Skincare,Masks,2020,4,4.08,1486,41.77,0.77
+Skincare,Masks,2020,5,4.0,1141,42.81,0.76
+Skincare,Masks,2020,6,4.01,934,39.17,0.76
+Skincare,Masks,2020,7,3.98,708,41.19,0.74
+Skincare,Masks,2020,8,3.93,720,36.56,0.72
+Skincare,Masks,2020,9,4.3,549,36.26,0.83
+Skincare,Masks,2020,10,4.3,829,44.02,0.85
+Skincare,Masks,2020,11,3.98,540,44.34,0.73
+Skincare,Masks,2020,12,4.08,584,45.22,0.75
+Skincare,Masks,2021,1,4.26,808,43.71,0.82
+Skincare,Masks,2021,2,4.41,916,39.88,0.88
+Skincare,Masks,2021,3,4.4,1045,39.96,0.88
+Skincare,Masks,2021,4,4.32,679,43.46,0.86
+Skincare,Masks,2021,5,4.47,831,45.67,0.89
+Skincare,Masks,2021,6,4.51,894,40.12,0.91
+Skincare,Masks,2021,7,4.63,1791,38.09,0.94
+Skincare,Masks,2021,8,4.21,353,37.8,0.78
+Skincare,Masks,2021,9,4.34,348,38.69,0.85
+Skincare,Masks,2021,10,4.29,338,38.32,0.83
+Skincare,Masks,2021,11,4.32,500,36.58,0.84
+Skincare,Masks,2021,12,4.66,1782,52.17,0.95
+Skincare,Masks,2022,1,4.45,1312,33.36,0.9
+Skincare,Masks,2022,2,4.47,1075,47.24,0.89
+Skincare,Masks,2022,3,4.25,679,44.39,0.84
+Skincare,Masks,2022,4,4.17,580,37.62,0.79
+Skincare,Masks,2022,5,4.36,622,38.74,0.86
+Skincare,Masks,2022,6,4.28,335,41.25,0.83
+Skincare,Masks,2022,7,4.41,573,37.07,0.88
+Skincare,Masks,2022,8,4.49,795,37.27,0.89
+Skincare,Masks,2022,9,4.37,630,37.21,0.86
+Skincare,Masks,2022,10,4.45,178,41.1,0.86
+Skincare,Masks,2022,11,4.33,183,42.95,0.83
+Skincare,Masks,2022,12,4.12,173,49.07,0.76
+Skincare,Masks,2023,1,4.49,861,22.49,0.9
+Skincare,Masks,2023,2,4.51,1579,33.58,0.91
+Skincare,Masks,2023,3,4.56,1255,43.08,0.91
+Skincare,Mini Size,2008,8,4.0,2,14.5,
+Skincare,Mini Size,2008,9,4.5,108,14.44,
+Skincare,Mini Size,2008,10,4.24,29,14.03,
+Skincare,Mini Size,2008,11,4.6,45,14.8,
+Skincare,Mini Size,2008,12,4.39,33,14.88,
+Skincare,Mini Size,2009,1,4.71,31,14.68,
+Skincare,Mini Size,2009,2,4.58,24,14.38,
+Skincare,Mini Size,2009,3,4.48,83,14.46,
+Skincare,Mini Size,2009,4,4.38,52,14.67,
+Skincare,Mini Size,2009,5,4.5,76,14.88,
+Skincare,Mini Size,2009,6,4.48,69,14.57,
+Skincare,Mini Size,2009,7,4.62,50,14.4,
+Skincare,Mini Size,2009,8,4.4,84,15.24,
+Skincare,Mini Size,2009,9,4.4,58,14.34,
+Skincare,Mini Size,2009,10,4.46,41,14.2,
+Skincare,Mini Size,2009,11,4.8,41,14.49,
+Skincare,Mini Size,2009,12,4.63,49,14.33,
+Skincare,Mini Size,2010,1,4.53,68,14.76,
+Skincare,Mini Size,2010,2,4.43,54,14.56,
+Skincare,Mini Size,2010,3,4.69,48,14.29,
+Skincare,Mini Size,2010,4,4.54,67,15.22,
+Skincare,Mini Size,2010,5,4.42,59,14.32,
+Skincare,Mini Size,2010,6,4.68,53,14.34,
+Skincare,Mini Size,2010,7,4.65,68,15.44,
+Skincare,Mini Size,2010,8,4.48,58,14.34,
+Skincare,Mini Size,2010,9,3.96,28,14.68,
+Skincare,Mini Size,2010,10,4.56,45,14.84,
+Skincare,Mini Size,2010,11,4.21,42,14.48,
+Skincare,Mini Size,2010,12,4.27,55,14.69,
+Skincare,Mini Size,2011,1,4.48,67,14.39,
+Skincare,Mini Size,2011,2,4.41,44,14.3,
+Skincare,Mini Size,2011,3,4.45,53,14.68,
+Skincare,Mini Size,2011,4,4.42,50,14.34,
+Skincare,Mini Size,2011,5,4.46,57,14.4,
+Skincare,Mini Size,2011,6,4.69,35,14.34,
+Skincare,Mini Size,2011,7,4.61,36,14.61,
+Skincare,Mini Size,2011,8,4.36,44,14.61,
+Skincare,Mini Size,2011,9,4.4,20,14.05,
+Skincare,Mini Size,2011,10,4.39,33,15.64,
+Skincare,Mini Size,2011,11,4.52,62,14.26,
+Skincare,Mini Size,2011,12,4.67,45,14.78,
+Skincare,Mini Size,2012,1,4.54,52,14.46,
+Skincare,Mini Size,2012,2,4.42,31,14.71,
+Skincare,Mini Size,2012,3,4.55,42,14.48,
+Skincare,Mini Size,2012,4,4.56,18,15.72,
+Skincare,Mini Size,2012,5,4.26,23,13.83,
+Skincare,Mini Size,2012,6,4.33,51,13.59,
+Skincare,Mini Size,2012,7,4.49,53,13.75,
+Skincare,Mini Size,2012,8,4.39,49,14.14,
+Skincare,Mini Size,2012,9,4.41,46,14.04,
+Skincare,Mini Size,2012,10,4.39,36,14.17,
+Skincare,Mini Size,2012,11,4.49,49,14.1,
+Skincare,Mini Size,2012,12,4.43,70,14.57,
+Skincare,Mini Size,2013,1,4.42,66,14.17,
+Skincare,Mini Size,2013,2,4.37,59,15.15,
+Skincare,Mini Size,2013,3,4.21,78,14.79,
+Skincare,Mini Size,2013,4,4.09,55,15.33,
+Skincare,Mini Size,2013,5,4.59,54,14.22,
+Skincare,Mini Size,2013,6,4.47,53,14.04,
+Skincare,Mini Size,2013,7,4.53,53,14.43,
+Skincare,Mini Size,2013,8,4.34,68,14.51,
+Skincare,Mini Size,2013,9,4.25,64,14.31,
+Skincare,Mini Size,2013,10,4.41,58,14.66,
+Skincare,Mini Size,2013,11,4.32,65,14.52,
+Skincare,Mini Size,2013,12,4.55,69,14.87,
+Skincare,Mini Size,2014,1,4.45,71,14.18,
+Skincare,Mini Size,2014,2,4.53,57,14.67,
+Skincare,Mini Size,2014,3,4.72,81,14.7,
+Skincare,Mini Size,2014,4,4.37,101,14.42,
+Skincare,Mini Size,2014,5,4.45,86,14.66,
+Skincare,Mini Size,2014,6,4.47,87,15.21,
+Skincare,Mini Size,2014,7,4.33,98,15.38,
+Skincare,Mini Size,2014,8,4.13,82,15.35,
+Skincare,Mini Size,2014,9,4.5,82,14.79,
+Skincare,Mini Size,2014,10,4.27,60,14.82,
+Skincare,Mini Size,2014,11,4.59,64,14.94,
+Skincare,Mini Size,2014,12,4.66,83,14.72,
+Skincare,Mini Size,2015,1,4.24,138,15.13,
+Skincare,Mini Size,2015,2,4.12,83,16.0,
+Skincare,Mini Size,2015,3,4.53,90,15.43,
+Skincare,Mini Size,2015,4,4.23,86,15.17,
+Skincare,Mini Size,2015,5,4.19,64,16.34,
+Skincare,Mini Size,2015,6,4.39,77,15.53,
+Skincare,Mini Size,2015,7,4.26,61,15.49,
+Skincare,Mini Size,2015,8,4.33,55,16.73,
+Skincare,Mini Size,2015,9,4.33,54,16.7,
+Skincare,Mini Size,2015,10,4.33,49,15.65,
+Skincare,Mini Size,2015,11,4.49,124,15.59,
+Skincare,Mini Size,2015,12,4.39,102,14.77,
+Skincare,Mini Size,2016,1,4.01,107,16.12,
+Skincare,Mini Size,2016,2,4.45,99,15.45,
+Skincare,Mini Size,2016,3,4.38,80,15.52,
+Skincare,Mini Size,2016,4,4.62,95,16.53,
+Skincare,Mini Size,2016,5,4.65,85,15.8,
+Skincare,Mini Size,2016,6,4.49,75,15.67,
+Skincare,Mini Size,2016,7,4.59,97,15.69,
+Skincare,Mini Size,2016,8,4.69,108,15.69,
+Skincare,Mini Size,2016,9,4.46,92,16.9,
+Skincare,Mini Size,2016,10,4.36,149,16.78,
+Skincare,Mini Size,2016,11,4.43,187,16.93,
+Skincare,Mini Size,2016,12,4.44,218,17.2,
+Skincare,Mini Size,2017,1,4.39,238,16.87,
+Skincare,Mini Size,2017,2,4.44,178,23.9,
+Skincare,Mini Size,2017,3,4.54,172,30.2,
+Skincare,Mini Size,2017,4,4.33,192,24.99,
+Skincare,Mini Size,2017,5,4.2,236,28.01,
+Skincare,Mini Size,2017,6,4.29,228,20.97,
+Skincare,Mini Size,2017,7,4.47,235,23.43,
+Skincare,Mini Size,2017,8,4.48,325,23.9,0.98
+Skincare,Mini Size,2017,9,4.51,539,21.87,0.89
+Skincare,Mini Size,2017,10,4.47,336,22.06,0.86
+Skincare,Mini Size,2017,11,4.36,432,27.65,0.85
+Skincare,Mini Size,2017,12,4.4,392,25.09,0.85
+Skincare,Mini Size,2018,1,4.33,636,23.04,0.84
+Skincare,Mini Size,2018,2,4.32,548,23.7,0.83
+Skincare,Mini Size,2018,3,4.29,554,23.39,0.82
+Skincare,Mini Size,2018,4,4.36,595,23.88,0.86
+Skincare,Mini Size,2018,5,4.43,469,24.14,0.86
+Skincare,Mini Size,2018,6,4.45,456,22.61,0.88
+Skincare,Mini Size,2018,7,4.59,1013,20.98,0.93
+Skincare,Mini Size,2018,8,4.43,925,21.82,0.88
+Skincare,Mini Size,2018,9,4.41,563,24.24,0.85
+Skincare,Mini Size,2018,10,4.29,487,23.37,0.82
+Skincare,Mini Size,2018,11,4.26,527,23.4,0.81
+Skincare,Mini Size,2018,12,4.2,515,23.68,0.8
+Skincare,Mini Size,2019,1,4.33,833,21.94,0.83
+Skincare,Mini Size,2019,2,4.37,852,21.39,0.85
+Skincare,Mini Size,2019,3,4.36,1313,21.59,0.85
+Skincare,Mini Size,2019,4,4.28,985,20.82,0.83
+Skincare,Mini Size,2019,5,4.19,929,21.8,0.79
+Skincare,Mini Size,2019,6,4.2,800,21.6,0.8
+Skincare,Mini Size,2019,7,4.16,783,21.56,0.78
+Skincare,Mini Size,2019,8,4.04,1056,26.65,0.77
+Skincare,Mini Size,2019,9,4.1,776,23.44,0.78
+Skincare,Mini Size,2019,10,4.05,551,22.37,0.76
+Skincare,Mini Size,2019,11,4.07,663,23.08,0.76
+Skincare,Mini Size,2019,12,4.21,619,22.17,0.79
+Skincare,Mini Size,2020,1,4.17,1297,34.49,0.8
+Skincare,Mini Size,2020,2,4.31,2447,29.16,0.85
+Skincare,Mini Size,2020,3,4.43,3259,23.21,0.88
+Skincare,Mini Size,2020,4,4.14,2364,21.78,0.79
+Skincare,Mini Size,2020,5,4.22,3215,22.85,0.82
+Skincare,Mini Size,2020,6,4.17,2608,23.59,0.81
+Skincare,Mini Size,2020,7,4.14,2407,22.44,0.8
+Skincare,Mini Size,2020,8,4.28,3990,19.78,0.84
+Skincare,Mini Size,2020,9,4.18,1902,19.67,0.8
+Skincare,Mini Size,2020,10,4.12,2244,19.69,0.8
+Skincare,Mini Size,2020,11,4.13,827,21.1,0.78
+Skincare,Mini Size,2020,12,4.02,767,20.74,0.74
+Skincare,Mini Size,2021,1,4.21,1210,21.37,0.79
+Skincare,Mini Size,2021,2,4.22,1505,22.01,0.82
+Skincare,Mini Size,2021,3,4.16,1595,20.23,0.79
+Skincare,Mini Size,2021,4,4.2,1778,25.83,0.82
+Skincare,Mini Size,2021,5,4.34,1985,40.95,0.85
+Skincare,Mini Size,2021,6,4.39,1427,22.37,0.87
+Skincare,Mini Size,2021,7,4.29,931,22.35,0.83
+Skincare,Mini Size,2021,8,4.25,1456,38.28,0.84
+Skincare,Mini Size,2021,9,4.39,843,23.61,0.85
+Skincare,Mini Size,2021,10,4.56,1677,18.95,0.91
+Skincare,Mini Size,2021,11,4.16,840,27.57,0.8
+Skincare,Mini Size,2021,12,4.45,1275,22.4,0.88
+Skincare,Mini Size,2022,1,4.35,1360,23.05,0.85
+Skincare,Mini Size,2022,2,4.31,924,21.46,0.84
+Skincare,Mini Size,2022,3,4.11,805,20.68,0.77
+Skincare,Mini Size,2022,4,4.08,985,21.7,0.76
+Skincare,Mini Size,2022,5,4.29,990,20.14,0.83
+Skincare,Mini Size,2022,6,4.14,637,21.26,0.79
+Skincare,Mini Size,2022,7,4.09,618,21.84,0.75
+Skincare,Mini Size,2022,8,4.64,2663,18.67,0.93
+Skincare,Mini Size,2022,9,4.42,961,22.65,0.86
+Skincare,Mini Size,2022,10,4.3,488,23.47,0.82
+Skincare,Mini Size,2022,11,4.21,617,48.4,0.82
+Skincare,Mini Size,2022,12,4.24,592,44.17,0.81
+Skincare,Mini Size,2023,1,4.05,971,48.19,0.76
+Skincare,Mini Size,2023,2,4.16,929,26.77,0.8
+Skincare,Mini Size,2023,3,3.99,503,22.9,0.77
+Skincare,Moisturizers,2008,8,4.6,5,49.5,
+Skincare,Moisturizers,2008,9,4.53,214,37.29,
+Skincare,Moisturizers,2008,10,4.5,66,40.39,
+Skincare,Moisturizers,2008,11,4.66,62,40.12,
+Skincare,Moisturizers,2008,12,4.54,54,41.67,
+Skincare,Moisturizers,2009,1,4.62,90,42.57,
+Skincare,Moisturizers,2009,2,4.6,58,42.17,
+Skincare,Moisturizers,2009,3,4.38,168,44.56,
+Skincare,Moisturizers,2009,4,4.39,165,44.46,
+Skincare,Moisturizers,2009,5,4.48,194,44.51,
+Skincare,Moisturizers,2009,6,4.46,136,38.72,
+Skincare,Moisturizers,2009,7,4.54,123,41.5,
+Skincare,Moisturizers,2009,8,4.41,189,38.85,
+Skincare,Moisturizers,2009,9,4.57,150,39.3,
+Skincare,Moisturizers,2009,10,4.56,139,39.19,
+Skincare,Moisturizers,2009,11,4.3,120,44.98,
+Skincare,Moisturizers,2009,12,4.51,216,41.92,
+Skincare,Moisturizers,2010,1,4.38,327,41.41,
+Skincare,Moisturizers,2010,2,4.47,250,44.84,
+Skincare,Moisturizers,2010,3,4.4,277,42.41,
+Skincare,Moisturizers,2010,4,4.56,300,42.29,
+Skincare,Moisturizers,2010,5,4.57,382,42.83,
+Skincare,Moisturizers,2010,6,4.48,322,42.48,
+Skincare,Moisturizers,2010,7,4.59,283,40.88,
+Skincare,Moisturizers,2010,8,4.58,300,42.56,
+Skincare,Moisturizers,2010,9,4.62,144,43.64,
+Skincare,Moisturizers,2010,10,4.47,229,44.69,
+Skincare,Moisturizers,2010,11,4.47,273,44.64,
+Skincare,Moisturizers,2010,12,4.49,421,43.65,
+Skincare,Moisturizers,2011,1,4.43,411,44.43,
+Skincare,Moisturizers,2011,2,4.43,308,45.65,
+Skincare,Moisturizers,2011,3,4.41,312,46.04,
+Skincare,Moisturizers,2011,4,4.5,366,44.4,
+Skincare,Moisturizers,2011,5,4.52,345,44.59,
+Skincare,Moisturizers,2011,6,4.4,299,42.42,
+Skincare,Moisturizers,2011,7,4.55,287,42.82,
+Skincare,Moisturizers,2011,8,4.57,310,43.7,
+Skincare,Moisturizers,2011,9,4.33,113,44.83,
+Skincare,Moisturizers,2011,10,4.51,239,46.85,
+Skincare,Moisturizers,2011,11,4.65,300,46.71,
+Skincare,Moisturizers,2011,12,4.53,378,46.69,
+Skincare,Moisturizers,2012,1,4.54,375,47.05,
+Skincare,Moisturizers,2012,2,4.56,308,46.5,
+Skincare,Moisturizers,2012,3,4.46,343,46.56,
+Skincare,Moisturizers,2012,4,4.48,163,48.35,
+Skincare,Moisturizers,2012,5,4.62,188,46.76,
+Skincare,Moisturizers,2012,6,4.6,242,47.32,
+Skincare,Moisturizers,2012,7,4.42,212,46.12,
+Skincare,Moisturizers,2012,8,4.46,269,48.03,
+Skincare,Moisturizers,2012,9,4.4,272,62.75,
+Skincare,Moisturizers,2012,10,4.54,284,54.69,
+Skincare,Moisturizers,2012,11,4.52,353,55.85,
+Skincare,Moisturizers,2012,12,4.48,483,54.59,
+Skincare,Moisturizers,2013,1,4.48,605,53.2,
+Skincare,Moisturizers,2013,2,4.46,539,48.11,
+Skincare,Moisturizers,2013,3,4.45,593,49.9,
+Skincare,Moisturizers,2013,4,4.46,472,46.47,
+Skincare,Moisturizers,2013,5,4.51,421,52.37,
+Skincare,Moisturizers,2013,6,4.55,299,47.91,
+Skincare,Moisturizers,2013,7,4.43,291,47.03,
+Skincare,Moisturizers,2013,8,4.28,323,52.44,
+Skincare,Moisturizers,2013,9,4.32,318,54.84,
+Skincare,Moisturizers,2013,10,4.34,392,49.66,
+Skincare,Moisturizers,2013,11,4.4,522,49.8,
+Skincare,Moisturizers,2013,12,4.43,540,48.39,
+Skincare,Moisturizers,2014,1,4.35,718,45.4,
+Skincare,Moisturizers,2014,2,4.27,571,51.61,
+Skincare,Moisturizers,2014,3,4.29,492,49.82,
+Skincare,Moisturizers,2014,4,4.38,607,51.84,
+Skincare,Moisturizers,2014,5,4.28,443,47.31,
+Skincare,Moisturizers,2014,6,4.35,412,54.43,
+Skincare,Moisturizers,2014,7,4.37,405,52.24,
+Skincare,Moisturizers,2014,8,4.45,347,52.39,
+Skincare,Moisturizers,2014,9,4.2,345,52.99,
+Skincare,Moisturizers,2014,10,4.23,352,50.82,
+Skincare,Moisturizers,2014,11,4.38,467,49.22,
+Skincare,Moisturizers,2014,12,4.35,501,49.02,
+Skincare,Moisturizers,2015,1,4.37,660,48.62,
+Skincare,Moisturizers,2015,2,4.35,560,53.0,
+Skincare,Moisturizers,2015,3,4.26,570,52.56,
+Skincare,Moisturizers,2015,4,4.32,632,52.4,
+Skincare,Moisturizers,2015,5,4.15,506,56.36,
+Skincare,Moisturizers,2015,6,4.28,425,53.73,
+Skincare,Moisturizers,2015,7,4.31,445,55.38,
+Skincare,Moisturizers,2015,8,4.24,340,54.61,
+Skincare,Moisturizers,2015,9,4.13,345,56.49,
+Skincare,Moisturizers,2015,10,4.19,441,54.49,
+Skincare,Moisturizers,2015,11,4.26,632,51.79,
+Skincare,Moisturizers,2015,12,4.41,926,52.27,
+Skincare,Moisturizers,2016,1,4.39,948,51.0,
+Skincare,Moisturizers,2016,2,4.39,847,48.64,
+Skincare,Moisturizers,2016,3,4.36,746,49.96,
+Skincare,Moisturizers,2016,4,4.28,894,49.69,
+Skincare,Moisturizers,2016,5,4.24,825,51.78,
+Skincare,Moisturizers,2016,6,4.19,727,53.11,
+Skincare,Moisturizers,2016,7,4.29,700,57.54,
+Skincare,Moisturizers,2016,8,4.35,790,69.97,
+Skincare,Moisturizers,2016,9,4.31,650,62.81,
+Skincare,Moisturizers,2016,10,4.32,784,52.6,
+Skincare,Moisturizers,2016,11,4.31,969,52.0,
+Skincare,Moisturizers,2016,12,4.35,1264,50.13,
+Skincare,Moisturizers,2017,1,4.26,1733,50.73,
+Skincare,Moisturizers,2017,2,4.27,1290,56.26,
+Skincare,Moisturizers,2017,3,4.37,897,66.78,
+Skincare,Moisturizers,2017,4,4.19,996,62.15,
+Skincare,Moisturizers,2017,5,4.21,941,66.87,
+Skincare,Moisturizers,2017,6,4.11,920,62.94,
+Skincare,Moisturizers,2017,7,4.37,1803,66.15,
+Skincare,Moisturizers,2017,8,4.4,2409,58.45,0.96
+Skincare,Moisturizers,2017,9,4.52,3646,53.28,0.92
+Skincare,Moisturizers,2017,10,4.34,1845,52.93,0.86
+Skincare,Moisturizers,2017,11,4.25,1655,66.49,0.83
+Skincare,Moisturizers,2017,12,4.25,1652,58.92,0.82
+Skincare,Moisturizers,2018,1,4.36,2647,57.73,0.85
+Skincare,Moisturizers,2018,2,4.21,1996,58.18,0.8
+Skincare,Moisturizers,2018,3,4.31,2179,58.58,0.83
+Skincare,Moisturizers,2018,4,4.4,3723,57.27,0.87
+Skincare,Moisturizers,2018,5,4.33,2331,57.29,0.86
+Skincare,Moisturizers,2018,6,4.37,1418,58.49,0.84
+Skincare,Moisturizers,2018,7,4.44,3350,54.84,0.89
+Skincare,Moisturizers,2018,8,4.36,3074,59.19,0.86
+Skincare,Moisturizers,2018,9,4.29,2279,63.06,0.83
+Skincare,Moisturizers,2018,10,4.16,1816,62.26,0.79
+Skincare,Moisturizers,2018,11,4.21,1956,63.26,0.8
+Skincare,Moisturizers,2018,12,4.37,2393,69.76,0.86
+Skincare,Moisturizers,2019,1,4.35,4323,68.77,0.85
+Skincare,Moisturizers,2019,2,4.29,2982,59.07,0.83
+Skincare,Moisturizers,2019,3,4.28,3096,60.6,0.82
+Skincare,Moisturizers,2019,4,4.19,3154,60.7,0.81
+Skincare,Moisturizers,2019,5,4.13,2939,59.79,0.79
+Skincare,Moisturizers,2019,6,4.23,2453,54.94,0.81
+Skincare,Moisturizers,2019,7,4.25,2937,50.6,0.84
+Skincare,Moisturizers,2019,8,4.3,3850,55.75,0.84
+Skincare,Moisturizers,2019,9,4.21,3326,55.13,0.83
+Skincare,Moisturizers,2019,10,3.91,1707,60.39,0.72
+Skincare,Moisturizers,2019,11,3.89,1773,61.39,0.7
+Skincare,Moisturizers,2019,12,4.31,3040,59.01,0.85
+Skincare,Moisturizers,2020,1,4.33,7232,64.44,0.87
+Skincare,Moisturizers,2020,2,4.17,4653,52.96,0.82
+Skincare,Moisturizers,2020,3,4.25,4933,49.66,0.84
+Skincare,Moisturizers,2020,4,4.14,5550,53.38,0.79
+Skincare,Moisturizers,2020,5,4.06,4217,55.91,0.77
+Skincare,Moisturizers,2020,6,4.16,3118,53.84,0.79
+Skincare,Moisturizers,2020,7,4.15,2751,57.06,0.79
+Skincare,Moisturizers,2020,8,4.24,3100,61.26,0.82
+Skincare,Moisturizers,2020,9,4.31,3542,73.94,0.85
+Skincare,Moisturizers,2020,10,4.29,3352,61.41,0.85
+Skincare,Moisturizers,2020,11,4.21,2377,53.28,0.8
+Skincare,Moisturizers,2020,12,4.18,2450,51.42,0.81
+Skincare,Moisturizers,2021,1,4.22,4735,59.4,0.82
+Skincare,Moisturizers,2021,2,4.19,4401,72.93,0.82
+Skincare,Moisturizers,2021,3,4.25,4198,62.32,0.82
+Skincare,Moisturizers,2021,4,4.35,6354,74.68,0.86
+Skincare,Moisturizers,2021,5,4.35,6937,119.06,0.86
+Skincare,Moisturizers,2021,6,4.38,7260,96.07,0.86
+Skincare,Moisturizers,2021,7,4.39,2800,55.82,0.87
+Skincare,Moisturizers,2021,8,4.44,5389,74.77,0.89
+Skincare,Moisturizers,2021,9,4.47,4640,63.64,0.89
+Skincare,Moisturizers,2021,10,4.37,2881,66.47,0.86
+Skincare,Moisturizers,2021,11,4.25,2283,66.41,0.82
+Skincare,Moisturizers,2021,12,4.48,4609,61.75,0.9
+Skincare,Moisturizers,2022,1,4.34,7378,56.08,0.87
+Skincare,Moisturizers,2022,2,4.39,6373,53.55,0.88
+Skincare,Moisturizers,2022,3,4.48,6328,70.77,0.9
+Skincare,Moisturizers,2022,4,4.34,5268,65.8,0.85
+Skincare,Moisturizers,2022,5,4.21,3527,59.11,0.82
+Skincare,Moisturizers,2022,6,4.31,3472,61.7,0.84
+Skincare,Moisturizers,2022,7,4.43,5515,46.46,0.89
+Skincare,Moisturizers,2022,8,4.29,4909,51.3,0.86
+Skincare,Moisturizers,2022,9,4.28,4658,62.35,0.86
+Skincare,Moisturizers,2022,10,4.28,3412,74.28,0.87
+Skincare,Moisturizers,2022,11,4.16,1677,76.49,0.82
+Skincare,Moisturizers,2022,12,4.59,3775,66.88,0.92
+Skincare,Moisturizers,2023,1,4.48,5436,71.55,0.89
+Skincare,Moisturizers,2023,2,4.22,3627,57.67,0.81
+Skincare,Moisturizers,2023,3,4.28,3335,80.44,0.84
+Skincare,Self Tanners,2016,3,3.88,16,37.0,
+Skincare,Self Tanners,2016,4,3.76,41,36.05,
+Skincare,Self Tanners,2016,5,3.57,30,36.8,
+Skincare,Self Tanners,2016,6,4.32,22,38.36,
+Skincare,Self Tanners,2016,7,3.91,33,37.27,
+Skincare,Self Tanners,2016,8,4.38,26,39.08,
+Skincare,Self Tanners,2016,9,4.54,13,36.77,
+Skincare,Self Tanners,2016,10,4.37,19,35.89,
+Skincare,Self Tanners,2016,11,4.71,7,42.57,
+Skincare,Self Tanners,2016,12,3.5,8,40.0,
+Skincare,Self Tanners,2017,1,3.67,6,36.0,
+Skincare,Self Tanners,2017,2,3.88,8,40.0,
+Skincare,Self Tanners,2017,3,4.67,6,38.0,
+Skincare,Self Tanners,2017,4,4.47,19,43.47,
+Skincare,Self Tanners,2017,5,4.33,21,45.05,
+Skincare,Self Tanners,2017,6,4.3,23,39.39,
+Skincare,Self Tanners,2017,7,4.16,19,40.32,
+Skincare,Self Tanners,2017,8,4.66,29,42.38,1.0
+Skincare,Self Tanners,2017,9,4.43,23,41.74,0.91
+Skincare,Self Tanners,2017,10,4.5,16,45.69,0.94
+Skincare,Self Tanners,2017,11,4.38,37,44.38,0.89
+Skincare,Self Tanners,2017,12,4.06,17,49.47,0.76
+Skincare,Self Tanners,2018,1,4.48,42,46.79,0.86
+Skincare,Self Tanners,2018,2,4.3,23,44.78,0.87
+Skincare,Self Tanners,2018,3,4.44,43,45.79,0.91
+Skincare,Self Tanners,2018,4,4.41,58,45.07,0.86
+Skincare,Self Tanners,2018,5,4.16,152,38.78,0.82
+Skincare,Self Tanners,2018,6,4.14,195,35.93,0.79
+Skincare,Self Tanners,2018,7,4.15,162,37.67,0.8
+Skincare,Self Tanners,2018,8,4.15,130,36.77,0.82
+Skincare,Self Tanners,2018,9,4.07,98,37.94,0.81
+Skincare,Self Tanners,2018,10,4.41,46,41.57,0.87
+Skincare,Self Tanners,2018,11,4.02,44,39.34,0.73
+Skincare,Self Tanners,2018,12,4.24,62,39.81,0.82
+Skincare,Self Tanners,2019,1,4.19,101,37.48,0.79
+Skincare,Self Tanners,2019,2,3.85,74,37.58,0.72
+Skincare,Self Tanners,2019,3,4.02,112,37.34,0.78
+Skincare,Self Tanners,2019,4,3.96,151,36.52,0.73
+Skincare,Self Tanners,2019,5,4.04,240,37.46,0.78
+Skincare,Self Tanners,2019,6,3.94,271,36.3,0.76
+Skincare,Self Tanners,2019,7,4.02,232,36.48,0.75
+Skincare,Self Tanners,2019,8,3.98,211,37.09,0.76
+Skincare,Self Tanners,2019,9,3.77,124,36.03,0.73
+Skincare,Self Tanners,2019,10,3.82,79,36.22,0.75
+Skincare,Self Tanners,2019,11,3.92,100,36.35,0.75
+Skincare,Self Tanners,2019,12,3.88,80,37.92,0.72
+Skincare,Self Tanners,2020,1,4.05,113,35.27,0.81
+Skincare,Self Tanners,2020,2,4.12,201,33.48,0.82
+Skincare,Self Tanners,2020,3,4.32,473,31.85,0.86
+Skincare,Self Tanners,2020,4,4.17,711,33.12,0.82
+Skincare,Self Tanners,2020,5,3.72,458,35.12,0.7
+Skincare,Self Tanners,2020,6,3.84,377,35.35,0.73
+Skincare,Self Tanners,2020,7,3.94,257,34.52,0.74
+Skincare,Self Tanners,2020,8,3.95,159,34.86,0.77
+Skincare,Self Tanners,2020,9,3.98,81,34.52,0.78
+Skincare,Self Tanners,2020,10,4.09,64,33.78,0.8
+Skincare,Self Tanners,2020,11,4.01,84,35.38,0.74
+Skincare,Self Tanners,2020,12,3.94,87,34.34,0.74
+Skincare,Self Tanners,2021,1,3.94,155,34.5,0.75
+Skincare,Self Tanners,2021,2,3.69,108,35.09,0.65
+Skincare,Self Tanners,2021,3,3.88,321,31.72,0.72
+Skincare,Self Tanners,2021,4,3.53,338,32.37,0.62
+Skincare,Self Tanners,2021,5,3.45,241,33.27,0.6
+Skincare,Self Tanners,2021,6,3.81,203,34.78,0.72
+Skincare,Self Tanners,2021,7,3.72,151,33.24,0.7
+Skincare,Self Tanners,2021,8,3.99,104,33.81,0.76
+Skincare,Self Tanners,2021,9,3.95,80,32.48,0.72
+Skincare,Self Tanners,2021,10,4.28,89,29.55,0.84
+Skincare,Self Tanners,2021,11,3.89,63,32.94,0.76
+Skincare,Self Tanners,2021,12,3.83,63,32.06,0.75
+Skincare,Self Tanners,2022,1,3.94,79,33.34,0.73
+Skincare,Self Tanners,2022,2,4.5,133,32.96,0.9
+Skincare,Self Tanners,2022,3,4.28,271,33.01,0.84
+Skincare,Self Tanners,2022,4,3.81,214,32.36,0.71
+Skincare,Self Tanners,2022,5,4.49,803,37.69,0.9
+Skincare,Self Tanners,2022,6,4.44,852,41.61,0.89
+Skincare,Self Tanners,2022,7,3.58,170,34.62,0.65
+Skincare,Self Tanners,2022,8,3.51,83,34.45,0.67
+Skincare,Self Tanners,2022,9,3.19,52,33.67,0.56
+Skincare,Self Tanners,2022,10,4.37,196,30.26,0.91
+Skincare,Self Tanners,2022,11,4.64,552,39.03,0.94
+Skincare,Self Tanners,2022,12,4.31,94,32.05,0.89
+Skincare,Self Tanners,2023,1,3.27,71,32.75,0.56
+Skincare,Self Tanners,2023,2,3.67,76,37.05,0.68
+Skincare,Self Tanners,2023,3,3.91,46,35.22,0.74
+Skincare,Shop by Concern,2018,2,5.0,2,28.0,1.0
+Skincare,Shop by Concern,2018,3,3.0,2,28.0,0.0
+Skincare,Shop by Concern,2018,4,5.0,2,28.0,1.0
+Skincare,Shop by Concern,2018,5,5.0,1,28.0,1.0
+Skincare,Shop by Concern,2018,8,5.0,1,28.0,1.0
+Skincare,Shop by Concern,2019,5,4.0,1,28.0,0.0
+Skincare,Shop by Concern,2019,8,4.5,2,28.0,1.0
+Skincare,Shop by Concern,2020,1,5.0,1,28.0,1.0
+Skincare,Shop by Concern,2020,3,1.0,1,28.0,0.0
+Skincare,Shop by Concern,2020,5,5.0,1,28.0,1.0
+Skincare,Shop by Concern,2021,1,4.0,1,28.0,0.0
+Skincare,Sunscreen,2008,8,5.0,1,30.0,
+Skincare,Sunscreen,2008,9,4.63,19,30.0,
+Skincare,Sunscreen,2008,10,4.0,4,30.0,
+Skincare,Sunscreen,2008,11,4.33,6,30.0,
+Skincare,Sunscreen,2008,12,4.0,1,30.0,
+Skincare,Sunscreen,2009,1,4.25,4,30.0,
+Skincare,Sunscreen,2009,2,5.0,2,30.0,
+Skincare,Sunscreen,2009,3,2.57,7,30.0,
+Skincare,Sunscreen,2009,4,4.5,8,30.0,
+Skincare,Sunscreen,2009,5,4.2,15,30.0,
+Skincare,Sunscreen,2009,6,4.0,13,30.0,
+Skincare,Sunscreen,2009,7,3.71,7,30.0,
+Skincare,Sunscreen,2009,8,4.27,11,30.0,
+Skincare,Sunscreen,2009,9,4.0,5,30.0,
+Skincare,Sunscreen,2009,10,4.6,10,30.0,
+Skincare,Sunscreen,2009,11,3.4,5,30.0,
+Skincare,Sunscreen,2009,12,3.88,8,30.0,
+Skincare,Sunscreen,2010,1,4.7,10,30.0,
+Skincare,Sunscreen,2010,2,4.56,9,30.0,
+Skincare,Sunscreen,2010,3,3.62,13,30.0,
+Skincare,Sunscreen,2010,4,4.29,14,30.0,
+Skincare,Sunscreen,2010,5,3.9,29,30.0,
+Skincare,Sunscreen,2010,6,4.35,20,30.0,
+Skincare,Sunscreen,2010,7,3.88,17,30.0,
+Skincare,Sunscreen,2010,8,3.8,15,30.0,
+Skincare,Sunscreen,2010,9,4.0,3,30.0,
+Skincare,Sunscreen,2010,10,4.45,11,30.0,
+Skincare,Sunscreen,2010,11,3.0,7,30.0,
+Skincare,Sunscreen,2010,12,3.92,12,30.0,
+Skincare,Sunscreen,2011,1,4.0,10,30.0,
+Skincare,Sunscreen,2011,2,3.86,7,30.0,
+Skincare,Sunscreen,2011,3,4.67,6,30.0,
+Skincare,Sunscreen,2011,4,4.38,13,30.0,
+Skincare,Sunscreen,2011,5,4.4,5,30.0,
+Skincare,Sunscreen,2011,6,4.57,7,30.0,
+Skincare,Sunscreen,2011,7,4.12,8,30.0,
+Skincare,Sunscreen,2011,8,4.5,4,30.0,
+Skincare,Sunscreen,2011,9,5.0,2,30.0,
+Skincare,Sunscreen,2011,10,4.0,1,30.0,
+Skincare,Sunscreen,2011,11,4.43,7,30.0,
+Skincare,Sunscreen,2011,12,4.67,3,30.0,
+Skincare,Sunscreen,2012,1,4.6,5,30.0,
+Skincare,Sunscreen,2012,2,3.75,8,30.0,
+Skincare,Sunscreen,2012,3,4.43,7,30.0,
+Skincare,Sunscreen,2012,4,3.0,2,30.0,
+Skincare,Sunscreen,2012,5,4.6,5,29.6,
+Skincare,Sunscreen,2012,6,4.33,9,29.33,
+Skincare,Sunscreen,2012,7,4.25,12,29.0,
+Skincare,Sunscreen,2012,8,4.0,7,28.57,
+Skincare,Sunscreen,2012,9,4.5,2,29.0,
+Skincare,Sunscreen,2012,10,3.5,4,29.0,
+Skincare,Sunscreen,2012,11,4.67,3,30.0,
+Skincare,Sunscreen,2012,12,3.8,5,30.0,
+Skincare,Sunscreen,2013,1,3.67,6,29.67,
+Skincare,Sunscreen,2013,2,4.33,6,29.0,
+Skincare,Sunscreen,2013,3,4.17,6,29.0,
+Skincare,Sunscreen,2013,4,4.0,8,29.75,
+Skincare,Sunscreen,2013,5,4.08,12,27.83,
+Skincare,Sunscreen,2013,6,4.44,9,27.11,
+Skincare,Sunscreen,2013,7,4.31,16,24.69,
+Skincare,Sunscreen,2013,8,4.56,16,25.0,
+Skincare,Sunscreen,2013,9,4.64,14,26.57,
+Skincare,Sunscreen,2013,10,4.2,5,28.2,
+Skincare,Sunscreen,2013,11,4.57,7,25.29,
+Skincare,Sunscreen,2013,12,3.5,6,27.0,
+Skincare,Sunscreen,2014,1,3.25,4,26.75,
+Skincare,Sunscreen,2014,2,4.67,6,27.17,
+Skincare,Sunscreen,2014,3,4.3,10,27.6,
+Skincare,Sunscreen,2014,4,4.23,26,28.88,
+Skincare,Sunscreen,2014,5,4.53,32,30.22,
+Skincare,Sunscreen,2014,6,4.4,52,31.96,
+Skincare,Sunscreen,2014,7,4.3,50,32.44,
+Skincare,Sunscreen,2014,8,4.04,28,31.61,
+Skincare,Sunscreen,2014,9,4.68,25,30.12,
+Skincare,Sunscreen,2014,10,4.41,22,28.55,
+Skincare,Sunscreen,2014,11,4.29,14,28.14,
+Skincare,Sunscreen,2014,12,4.83,12,28.58,
+Skincare,Sunscreen,2015,1,4.28,18,29.0,
+Skincare,Sunscreen,2015,2,4.19,16,31.62,
+Skincare,Sunscreen,2015,3,3.69,35,32.06,
+Skincare,Sunscreen,2015,4,3.74,46,33.09,
+Skincare,Sunscreen,2015,5,4.11,64,33.45,
+Skincare,Sunscreen,2015,6,3.95,79,34.06,
+Skincare,Sunscreen,2015,7,3.93,46,32.87,
+Skincare,Sunscreen,2015,8,4.12,34,34.56,
+Skincare,Sunscreen,2015,9,4.2,51,33.82,
+Skincare,Sunscreen,2015,10,4.24,33,30.76,
+Skincare,Sunscreen,2015,11,3.96,23,33.39,
+Skincare,Sunscreen,2015,12,3.89,19,33.84,
+Skincare,Sunscreen,2016,1,3.79,24,34.67,
+Skincare,Sunscreen,2016,2,4.18,28,32.82,
+Skincare,Sunscreen,2016,3,3.92,24,33.83,
+Skincare,Sunscreen,2016,4,4.28,39,33.33,
+Skincare,Sunscreen,2016,5,3.95,59,34.85,
+Skincare,Sunscreen,2016,6,4.08,74,35.84,
+Skincare,Sunscreen,2016,7,4.21,71,34.89,
+Skincare,Sunscreen,2016,8,4.19,59,33.36,
+Skincare,Sunscreen,2016,9,4.29,45,36.38,
+Skincare,Sunscreen,2016,10,3.76,42,35.6,
+Skincare,Sunscreen,2016,11,3.76,34,35.0,
+Skincare,Sunscreen,2016,12,4.33,21,35.9,
+Skincare,Sunscreen,2017,1,3.79,28,31.14,
+Skincare,Sunscreen,2017,2,4.03,32,34.28,
+Skincare,Sunscreen,2017,3,4.27,15,31.0,
+Skincare,Sunscreen,2017,4,4.11,37,35.05,
+Skincare,Sunscreen,2017,5,4.14,76,40.62,
+Skincare,Sunscreen,2017,6,3.54,122,36.6,
+Skincare,Sunscreen,2017,7,3.53,116,37.39,
+Skincare,Sunscreen,2017,8,3.6,68,37.53,1.0
+Skincare,Sunscreen,2017,9,4.1,103,38.09,0.77
+Skincare,Sunscreen,2017,10,3.87,46,39.89,0.67
+Skincare,Sunscreen,2017,11,4.04,46,37.76,0.74
+Skincare,Sunscreen,2017,12,4.05,41,34.83,0.76
+Skincare,Sunscreen,2018,1,4.32,82,40.17,0.85
+Skincare,Sunscreen,2018,2,4.07,89,42.63,0.73
+Skincare,Sunscreen,2018,3,4.11,118,41.14,0.76
+Skincare,Sunscreen,2018,4,4.19,195,41.88,0.79
+Skincare,Sunscreen,2018,5,4.12,243,40.21,0.78
+Skincare,Sunscreen,2018,6,4.48,534,45.63,0.9
+Skincare,Sunscreen,2018,7,4.2,390,42.24,0.82
+Skincare,Sunscreen,2018,8,4.07,214,40.51,0.79
+Skincare,Sunscreen,2018,9,4.15,157,38.01,0.79
+Skincare,Sunscreen,2018,10,4.12,122,40.42,0.75
+Skincare,Sunscreen,2018,11,4.1,107,39.87,0.79
+Skincare,Sunscreen,2018,12,3.72,99,41.23,0.68
+Skincare,Sunscreen,2019,1,4.05,131,39.24,0.76
+Skincare,Sunscreen,2019,2,4.21,116,39.79,0.8
+Skincare,Sunscreen,2019,3,4.31,221,41.54,0.84
+Skincare,Sunscreen,2019,4,4.0,253,40.28,0.74
+Skincare,Sunscreen,2019,5,3.99,356,39.63,0.73
+Skincare,Sunscreen,2019,6,4.02,496,41.28,0.75
+Skincare,Sunscreen,2019,7,3.81,375,39.8,0.67
+Skincare,Sunscreen,2019,8,3.86,333,42.68,0.71
+Skincare,Sunscreen,2019,9,3.79,217,42.16,0.66
+Skincare,Sunscreen,2019,10,4.01,150,40.69,0.77
+Skincare,Sunscreen,2019,11,3.79,170,41.42,0.67
+Skincare,Sunscreen,2019,12,3.92,525,35.98,0.79
+Skincare,Sunscreen,2020,1,3.78,162,39.73,0.68
+Skincare,Sunscreen,2020,2,4.44,440,35.48,0.86
+Skincare,Sunscreen,2020,3,4.26,797,40.41,0.83
+Skincare,Sunscreen,2020,4,4.26,1291,40.07,0.83
+Skincare,Sunscreen,2020,5,4.05,1273,39.27,0.78
+Skincare,Sunscreen,2020,6,3.95,867,38.18,0.74
+Skincare,Sunscreen,2020,7,3.96,662,36.17,0.73
+Skincare,Sunscreen,2020,8,4.16,661,31.2,0.79
+Skincare,Sunscreen,2020,9,3.89,302,39.27,0.73
+Skincare,Sunscreen,2020,10,3.84,172,34.38,0.67
+Skincare,Sunscreen,2020,11,4.51,961,45.44,0.93
+Skincare,Sunscreen,2020,12,4.2,367,44.22,0.81
+Skincare,Sunscreen,2021,1,4.53,1636,39.81,0.91
+Skincare,Sunscreen,2021,2,4.4,1176,39.61,0.88
+Skincare,Sunscreen,2021,3,4.34,1372,37.08,0.87
+Skincare,Sunscreen,2021,4,4.25,1641,39.19,0.83
+Skincare,Sunscreen,2021,5,3.9,709,40.49,0.72
+Skincare,Sunscreen,2021,6,3.77,582,39.39,0.67
+Skincare,Sunscreen,2021,7,3.79,463,36.6,0.67
+Skincare,Sunscreen,2021,8,3.75,324,37.68,0.68
+Skincare,Sunscreen,2021,9,3.84,301,38.09,0.69
+Skincare,Sunscreen,2021,10,3.81,191,37.89,0.69
+Skincare,Sunscreen,2021,11,3.87,223,36.35,0.7
+Skincare,Sunscreen,2021,12,3.83,195,37.23,0.71
+Skincare,Sunscreen,2022,1,3.76,283,36.48,0.68
+Skincare,Sunscreen,2022,2,4.46,716,37.5,0.87
+Skincare,Sunscreen,2022,3,4.23,1858,36.6,0.8
+Skincare,Sunscreen,2022,4,4.2,2007,39.39,0.82
+Skincare,Sunscreen,2022,5,4.25,2090,40.44,0.83
+Skincare,Sunscreen,2022,6,4.13,1770,40.61,0.79
+Skincare,Sunscreen,2022,7,4.14,1248,35.48,0.79
+Skincare,Sunscreen,2022,8,4.23,1576,41.83,0.82
+Skincare,Sunscreen,2022,9,4.15,1173,46.85,0.8
+Skincare,Sunscreen,2022,10,4.4,669,56.16,0.87
+Skincare,Sunscreen,2022,11,4.03,238,46.44,0.74
+Skincare,Sunscreen,2022,12,3.84,145,40.52,0.73
+Skincare,Sunscreen,2023,1,3.66,271,35.34,0.65
+Skincare,Sunscreen,2023,2,3.7,452,37.51,0.66
+Skincare,Sunscreen,2023,3,4.48,1648,36.32,0.89
+Skincare,Treatments,2008,8,4.0,2,65.0,
+Skincare,Treatments,2008,9,4.17,87,62.28,
+Skincare,Treatments,2008,10,3.78,23,63.3,
+Skincare,Treatments,2008,11,4.55,29,56.21,
+Skincare,Treatments,2008,12,4.38,42,58.05,
+Skincare,Treatments,2009,1,4.07,42,51.67,
+Skincare,Treatments,2009,2,3.83,41,54.54,
+Skincare,Treatments,2009,3,4.15,71,54.68,
+Skincare,Treatments,2009,4,4.21,68,53.12,
+Skincare,Treatments,2009,5,4.14,99,52.99,
+Skincare,Treatments,2009,6,4.16,73,48.44,
+Skincare,Treatments,2009,7,4.26,54,45.89,
+Skincare,Treatments,2009,8,4.12,74,49.49,
+Skincare,Treatments,2009,9,4.18,57,54.74,
+Skincare,Treatments,2009,10,4.0,49,56.9,
+Skincare,Treatments,2009,11,4.26,46,53.09,
+Skincare,Treatments,2009,12,4.36,50,48.96,
+Skincare,Treatments,2010,1,4.42,64,49.66,
+Skincare,Treatments,2010,2,4.25,53,56.55,
+Skincare,Treatments,2010,3,4.36,80,53.1,
+Skincare,Treatments,2010,4,4.25,95,49.46,
+Skincare,Treatments,2010,5,4.19,102,50.46,
+Skincare,Treatments,2010,6,4.41,92,46.02,
+Skincare,Treatments,2010,7,4.18,116,50.05,
+Skincare,Treatments,2010,8,4.28,102,49.13,
+Skincare,Treatments,2010,9,4.33,67,50.69,
+Skincare,Treatments,2010,10,4.11,126,51.29,
+Skincare,Treatments,2010,11,4.22,121,50.75,
+Skincare,Treatments,2010,12,4.15,137,55.01,
+Skincare,Treatments,2011,1,4.29,134,45.23,
+Skincare,Treatments,2011,2,4.1,124,49.34,
+Skincare,Treatments,2011,3,4.24,127,47.43,
+Skincare,Treatments,2011,4,4.23,175,51.46,
+Skincare,Treatments,2011,5,4.11,196,54.07,
+Skincare,Treatments,2011,6,4.13,142,48.51,
+Skincare,Treatments,2011,7,4.36,132,46.9,
+Skincare,Treatments,2011,8,4.1,126,47.62,
+Skincare,Treatments,2011,9,4.42,55,47.73,
+Skincare,Treatments,2011,10,4.32,101,48.64,
+Skincare,Treatments,2011,11,4.26,127,49.87,
+Skincare,Treatments,2011,12,4.35,135,50.25,
+Skincare,Treatments,2012,1,4.26,148,51.78,
+Skincare,Treatments,2012,2,4.12,129,51.52,
+Skincare,Treatments,2012,3,4.28,127,49.09,
+Skincare,Treatments,2012,4,4.09,56,59.41,
+Skincare,Treatments,2012,5,4.13,76,56.05,
+Skincare,Treatments,2012,6,4.04,78,55.99,
+Skincare,Treatments,2012,7,4.37,108,57.18,
+Skincare,Treatments,2012,8,4.3,117,52.85,
+Skincare,Treatments,2012,9,4.01,90,50.88,
+Skincare,Treatments,2012,10,4.31,94,57.9,
+Skincare,Treatments,2012,11,4.05,112,50.37,
+Skincare,Treatments,2012,12,4.37,128,53.84,
+Skincare,Treatments,2013,1,4.38,155,51.94,
+Skincare,Treatments,2013,2,4.32,154,52.4,
+Skincare,Treatments,2013,3,4.16,174,50.9,
+Skincare,Treatments,2013,4,4.28,173,56.91,
+Skincare,Treatments,2013,5,4.38,159,56.3,
+Skincare,Treatments,2013,6,4.41,141,56.61,
+Skincare,Treatments,2013,7,4.39,147,54.18,
+Skincare,Treatments,2013,8,4.12,190,60.71,
+Skincare,Treatments,2013,9,4.31,165,57.65,
+Skincare,Treatments,2013,10,4.43,213,62.7,
+Skincare,Treatments,2013,11,4.34,183,61.53,
+Skincare,Treatments,2013,12,4.31,169,61.69,
+Skincare,Treatments,2014,1,4.28,203,64.31,
+Skincare,Treatments,2014,2,4.12,259,71.16,
+Skincare,Treatments,2014,3,4.24,276,64.53,
+Skincare,Treatments,2014,4,4.27,330,59.56,
+Skincare,Treatments,2014,5,4.35,262,61.27,
+Skincare,Treatments,2014,6,4.11,225,66.48,
+Skincare,Treatments,2014,7,4.27,225,62.16,
+Skincare,Treatments,2014,8,4.16,204,56.75,
+Skincare,Treatments,2014,9,4.21,183,58.35,
+Skincare,Treatments,2014,10,3.99,176,60.18,
+Skincare,Treatments,2014,11,4.4,207,58.2,
+Skincare,Treatments,2014,12,4.14,270,63.26,
+Skincare,Treatments,2015,1,4.12,361,69.27,
+Skincare,Treatments,2015,2,3.97,328,68.71,
+Skincare,Treatments,2015,3,4.04,314,68.83,
+Skincare,Treatments,2015,4,4.23,310,68.78,
+Skincare,Treatments,2015,5,4.18,285,71.62,
+Skincare,Treatments,2015,6,4.03,243,71.81,
+Skincare,Treatments,2015,7,4.34,234,73.37,
+Skincare,Treatments,2015,8,4.13,205,68.69,
+Skincare,Treatments,2015,9,4.09,182,65.42,
+Skincare,Treatments,2015,10,4.26,188,61.14,
+Skincare,Treatments,2015,11,4.09,312,67.74,
+Skincare,Treatments,2015,12,4.1,385,66.35,
+Skincare,Treatments,2016,1,4.16,438,66.79,
+Skincare,Treatments,2016,2,4.22,399,64.69,
+Skincare,Treatments,2016,3,4.16,361,68.41,
+Skincare,Treatments,2016,4,4.22,508,69.0,
+Skincare,Treatments,2016,5,4.35,433,70.23,
+Skincare,Treatments,2016,6,4.31,435,66.85,
+Skincare,Treatments,2016,7,4.27,372,64.71,
+Skincare,Treatments,2016,8,4.31,361,68.89,
+Skincare,Treatments,2016,9,4.36,334,68.64,
+Skincare,Treatments,2016,10,4.29,359,70.31,
+Skincare,Treatments,2016,11,4.19,386,69.47,
+Skincare,Treatments,2016,12,4.18,397,66.63,
+Skincare,Treatments,2017,1,4.28,437,67.08,
+Skincare,Treatments,2017,2,4.2,415,69.74,
+Skincare,Treatments,2017,3,4.21,287,80.35,
+Skincare,Treatments,2017,4,4.17,312,77.16,
+Skincare,Treatments,2017,5,4.27,335,76.46,
+Skincare,Treatments,2017,6,4.21,340,79.34,
+Skincare,Treatments,2017,7,4.14,415,73.64,
+Skincare,Treatments,2017,8,4.17,798,74.57,0.87
+Skincare,Treatments,2017,9,4.35,943,67.01,0.86
+Skincare,Treatments,2017,10,4.26,694,66.16,0.85
+Skincare,Treatments,2017,11,4.21,668,67.08,0.82
+Skincare,Treatments,2017,12,4.44,840,52.81,0.87
+Skincare,Treatments,2018,1,4.26,1406,45.11,0.82
+Skincare,Treatments,2018,2,4.26,1138,41.64,0.82
+Skincare,Treatments,2018,3,4.21,1142,51.02,0.81
+Skincare,Treatments,2018,4,4.29,1850,63.76,0.84
+Skincare,Treatments,2018,5,4.28,1201,75.58,0.82
+Skincare,Treatments,2018,6,4.44,1046,63.77,0.88
+Skincare,Treatments,2018,7,4.28,1205,60.26,0.84
+Skincare,Treatments,2018,8,4.44,1920,65.67,0.89
+Skincare,Treatments,2018,9,4.3,1539,67.69,0.86
+Skincare,Treatments,2018,10,4.19,1045,68.81,0.8
+Skincare,Treatments,2018,11,4.19,908,68.41,0.79
+Skincare,Treatments,2018,12,4.36,1390,72.86,0.86
+Skincare,Treatments,2019,1,4.37,2264,68.18,0.87
+Skincare,Treatments,2019,2,4.2,1613,55.07,0.82
+Skincare,Treatments,2019,3,4.39,2536,59.8,0.88
+Skincare,Treatments,2019,4,4.19,2659,49.0,0.82
+Skincare,Treatments,2019,5,4.27,3057,51.85,0.83
+Skincare,Treatments,2019,6,4.27,2717,44.58,0.85
+Skincare,Treatments,2019,7,4.31,2888,50.85,0.86
+Skincare,Treatments,2019,8,4.31,3056,60.3,0.85
+Skincare,Treatments,2019,9,4.34,2837,57.91,0.86
+Skincare,Treatments,2019,10,4.28,2755,60.18,0.86
+Skincare,Treatments,2019,11,4.15,1848,52.31,0.8
+Skincare,Treatments,2019,12,4.38,2595,55.86,0.87
+Skincare,Treatments,2020,1,4.31,5279,50.23,0.87
+Skincare,Treatments,2020,2,4.14,3291,58.82,0.81
+Skincare,Treatments,2020,3,4.26,3453,45.1,0.85
+Skincare,Treatments,2020,4,4.12,5095,41.0,0.8
+Skincare,Treatments,2020,5,4.26,5801,70.53,0.84
+Skincare,Treatments,2020,6,4.17,4597,53.79,0.81
+Skincare,Treatments,2020,7,4.15,3613,47.08,0.82
+Skincare,Treatments,2020,8,4.22,5368,86.82,0.84
+Skincare,Treatments,2020,9,4.26,4016,70.46,0.84
+Skincare,Treatments,2020,10,4.11,4691,90.15,0.81
+Skincare,Treatments,2020,11,4.23,2074,49.55,0.83
+Skincare,Treatments,2020,12,4.45,4200,55.69,0.89
+Skincare,Treatments,2021,1,4.35,4720,55.81,0.86
+Skincare,Treatments,2021,2,4.42,5122,69.12,0.88
+Skincare,Treatments,2021,3,4.41,3927,47.68,0.87
+Skincare,Treatments,2021,4,4.33,4435,49.53,0.85
+Skincare,Treatments,2021,5,4.2,2591,50.76,0.82
+Skincare,Treatments,2021,6,4.28,2281,48.45,0.84
+Skincare,Treatments,2021,7,4.34,4792,62.18,0.88
+Skincare,Treatments,2021,8,4.39,4276,56.08,0.88
+Skincare,Treatments,2021,9,4.43,3424,60.71,0.88
+Skincare,Treatments,2021,10,4.35,2843,68.1,0.87
+Skincare,Treatments,2021,11,4.28,2402,126.36,0.83
+Skincare,Treatments,2021,12,4.41,2635,49.67,0.87
+Skincare,Treatments,2022,1,4.41,5044,58.38,0.88
+Skincare,Treatments,2022,2,4.37,3941,58.84,0.87
+Skincare,Treatments,2022,3,4.42,4422,53.93,0.88
+Skincare,Treatments,2022,4,4.31,4147,49.21,0.85
+Skincare,Treatments,2022,5,4.32,3120,38.76,0.85
+Skincare,Treatments,2022,6,4.3,2533,49.82,0.84
+Skincare,Treatments,2022,7,4.47,3551,61.81,0.89
+Skincare,Treatments,2022,8,4.46,4550,64.27,0.89
+Skincare,Treatments,2022,9,4.37,3591,73.34,0.87
+Skincare,Treatments,2022,10,4.32,2891,61.58,0.88
+Skincare,Treatments,2022,11,4.32,2706,71.75,0.87
+Skincare,Treatments,2022,12,4.52,3563,69.16,0.91
+Skincare,Treatments,2023,1,4.4,4416,77.45,0.88
+Skincare,Treatments,2023,2,4.18,3634,64.59,0.82
+Skincare,Treatments,2023,3,4.34,4036,61.06,0.86
+Skincare,Value & Gift Sets,2011,5,4.71,7,159.0,
+Skincare,Value & Gift Sets,2011,6,4.58,26,159.0,
+Skincare,Value & Gift Sets,2011,7,4.69,13,159.0,
+Skincare,Value & Gift Sets,2011,8,3.8,15,159.0,
+Skincare,Value & Gift Sets,2011,9,4.14,7,159.0,
+Skincare,Value & Gift Sets,2011,10,4.4,5,159.0,
+Skincare,Value & Gift Sets,2011,11,4.22,9,159.0,
+Skincare,Value & Gift Sets,2011,12,4.2,10,159.0,
+Skincare,Value & Gift Sets,2012,1,4.39,18,159.0,
+Skincare,Value & Gift Sets,2012,2,4.2,10,159.0,
+Skincare,Value & Gift Sets,2012,3,3.73,11,159.0,
+Skincare,Value & Gift Sets,2012,4,4.25,8,159.0,
+Skincare,Value & Gift Sets,2012,5,4.71,7,159.0,
+Skincare,Value & Gift Sets,2012,6,4.0,4,159.0,
+Skincare,Value & Gift Sets,2012,7,3.0,6,159.0,
+Skincare,Value & Gift Sets,2012,8,5.0,3,159.0,
+Skincare,Value & Gift Sets,2012,9,3.33,3,159.0,
+Skincare,Value & Gift Sets,2012,10,3.75,4,159.0,
+Skincare,Value & Gift Sets,2012,11,4.64,11,159.0,
+Skincare,Value & Gift Sets,2012,12,4.86,7,159.0,
+Skincare,Value & Gift Sets,2013,1,3.17,12,159.0,
+Skincare,Value & Gift Sets,2013,2,3.64,14,159.0,
+Skincare,Value & Gift Sets,2013,3,4.44,9,159.0,
+Skincare,Value & Gift Sets,2013,4,3.83,12,159.0,
+Skincare,Value & Gift Sets,2013,5,4.4,15,159.0,
+Skincare,Value & Gift Sets,2013,6,4.5,8,159.0,
+Skincare,Value & Gift Sets,2013,7,4.33,9,159.0,
+Skincare,Value & Gift Sets,2013,8,5.0,2,159.0,
+Skincare,Value & Gift Sets,2013,9,3.29,7,159.0,
+Skincare,Value & Gift Sets,2013,10,4.0,8,159.0,
+Skincare,Value & Gift Sets,2013,11,3.83,6,159.0,
+Skincare,Value & Gift Sets,2013,12,4.0,2,159.0,
+Skincare,Value & Gift Sets,2014,1,4.0,8,159.0,
+Skincare,Value & Gift Sets,2014,2,3.17,6,159.0,
+Skincare,Value & Gift Sets,2014,3,4.5,12,127.38,
+Skincare,Value & Gift Sets,2014,4,4.0,18,88.72,
+Skincare,Value & Gift Sets,2014,5,4.45,11,78.5,
+Skincare,Value & Gift Sets,2014,6,3.71,14,104.79,
+Skincare,Value & Gift Sets,2014,7,4.2,5,83.1,
+Skincare,Value & Gift Sets,2014,8,3.77,13,81.15,
+Skincare,Value & Gift Sets,2014,9,4.91,11,101.5,
+Skincare,Value & Gift Sets,2014,10,3.62,8,95.75,
+Skincare,Value & Gift Sets,2014,11,4.8,15,66.23,
+Skincare,Value & Gift Sets,2014,12,3.73,15,91.53,
+Skincare,Value & Gift Sets,2015,1,4.12,8,64.12,
+Skincare,Value & Gift Sets,2015,2,3.69,13,61.69,
+Skincare,Value & Gift Sets,2015,3,4.14,7,74.71,
+Skincare,Value & Gift Sets,2015,4,4.06,16,72.09,
+Skincare,Value & Gift Sets,2015,5,3.67,12,60.67,
+Skincare,Value & Gift Sets,2015,6,3.82,17,87.15,
+Skincare,Value & Gift Sets,2015,7,3.83,12,71.21,
+Skincare,Value & Gift Sets,2015,8,4.57,7,56.29,
+Skincare,Value & Gift Sets,2015,9,4.83,6,39.58,
+Skincare,Value & Gift Sets,2015,10,4.69,13,66.62,
+Skincare,Value & Gift Sets,2015,11,4.68,40,71.5,
+Skincare,Value & Gift Sets,2015,12,4.71,41,64.3,
+Skincare,Value & Gift Sets,2016,1,4.49,59,69.75,
+Skincare,Value & Gift Sets,2016,2,3.97,77,64.52,
+Skincare,Value & Gift Sets,2016,3,4.2,64,60.69,
+Skincare,Value & Gift Sets,2016,4,4.36,81,58.67,
+Skincare,Value & Gift Sets,2016,5,4.4,60,59.03,
+Skincare,Value & Gift Sets,2016,6,4.63,60,59.98,
+Skincare,Value & Gift Sets,2016,7,4.47,53,67.19,
+Skincare,Value & Gift Sets,2016,8,4.36,64,62.88,
+Skincare,Value & Gift Sets,2016,9,4.45,55,61.45,
+Skincare,Value & Gift Sets,2016,10,4.17,48,64.58,
+Skincare,Value & Gift Sets,2016,11,4.1,63,62.15,
+Skincare,Value & Gift Sets,2016,12,3.98,58,57.23,
+Skincare,Value & Gift Sets,2017,1,4.16,57,60.96,
+Skincare,Value & Gift Sets,2017,2,4.3,40,58.25,
+Skincare,Value & Gift Sets,2017,3,4.27,33,63.26,
+Skincare,Value & Gift Sets,2017,4,4.06,36,50.5,
+Skincare,Value & Gift Sets,2017,5,4.36,50,53.85,
+Skincare,Value & Gift Sets,2017,6,4.24,33,49.05,
+Skincare,Value & Gift Sets,2017,7,4.29,45,63.62,
+Skincare,Value & Gift Sets,2017,8,4.11,54,74.12,0.78
+Skincare,Value & Gift Sets,2017,9,4.52,75,59.95,0.92
+Skincare,Value & Gift Sets,2017,10,4.09,44,52.45,0.82
+Skincare,Value & Gift Sets,2017,11,4.19,69,65.36,0.86
+Skincare,Value & Gift Sets,2017,12,4.46,61,55.21,0.9
+Skincare,Value & Gift Sets,2018,1,4.29,80,64.54,0.84
+Skincare,Value & Gift Sets,2018,2,4.39,57,59.54,0.81
+Skincare,Value & Gift Sets,2018,3,4.2,49,51.5,0.8
+Skincare,Value & Gift Sets,2018,4,4.36,83,70.19,0.84
+Skincare,Value & Gift Sets,2018,5,4.5,68,57.46,0.88
+Skincare,Value & Gift Sets,2018,6,4.54,54,49.36,0.87
+Skincare,Value & Gift Sets,2018,7,4.34,59,62.94,0.83
+Skincare,Value & Gift Sets,2018,8,4.19,72,50.74,0.81
+Skincare,Value & Gift Sets,2018,9,4.47,66,56.92,0.94
+Skincare,Value & Gift Sets,2018,10,3.97,65,54.36,0.69
+Skincare,Value & Gift Sets,2018,11,3.92,39,66.77,0.72
+Skincare,Value & Gift Sets,2018,12,4.1,82,56.76,0.79
+Skincare,Value & Gift Sets,2019,1,4.28,92,45.21,0.85
+Skincare,Value & Gift Sets,2019,2,4.18,67,50.72,0.78
+Skincare,Value & Gift Sets,2019,3,4.46,351,65.92,0.93
+Skincare,Value & Gift Sets,2019,4,4.29,655,74.41,0.89
+Skincare,Value & Gift Sets,2019,5,4.04,115,75.89,0.79
+Skincare,Value & Gift Sets,2019,6,4.23,52,69.84,0.83
+Skincare,Value & Gift Sets,2019,7,3.91,43,64.2,0.77
+Skincare,Value & Gift Sets,2019,8,4.06,108,46.28,0.8
+Skincare,Value & Gift Sets,2019,9,4.04,89,41.45,0.78
+Skincare,Value & Gift Sets,2019,10,3.64,39,59.29,0.69
+Skincare,Value & Gift Sets,2019,11,4.04,45,64.3,0.76
+Skincare,Value & Gift Sets,2019,12,3.78,40,63.29,0.68
+Skincare,Value & Gift Sets,2020,1,3.57,58,69.1,0.64
+Skincare,Value & Gift Sets,2020,2,3.63,51,65.07,0.67
+Skincare,Value & Gift Sets,2020,3,3.81,68,67.93,0.66
+Skincare,Value & Gift Sets,2020,4,3.87,161,51.49,0.73
+Skincare,Value & Gift Sets,2020,5,4.08,182,65.08,0.78
+Skincare,Value & Gift Sets,2020,6,3.91,173,71.84,0.76
+Skincare,Value & Gift Sets,2020,7,3.79,149,80.95,0.71
+Skincare,Value & Gift Sets,2020,8,3.97,78,85.6,0.76
+Skincare,Value & Gift Sets,2020,9,4.24,85,93.23,0.85
+Skincare,Value & Gift Sets,2020,10,4.02,50,86.25,0.76
+Skincare,Value & Gift Sets,2020,11,4.25,59,102.28,0.83
+Skincare,Value & Gift Sets,2020,12,3.84,91,93.07,0.71
+Skincare,Value & Gift Sets,2021,1,3.7,152,61.48,0.7
+Skincare,Value & Gift Sets,2021,2,4.29,178,58.5,0.82
+Skincare,Value & Gift Sets,2021,3,4.23,206,51.96,0.87
+Skincare,Value & Gift Sets,2021,4,4.17,197,56.53,0.8
+Skincare,Value & Gift Sets,2021,5,4.22,208,51.75,0.86
+Skincare,Value & Gift Sets,2021,6,4.29,130,75.01,0.85
+Skincare,Value & Gift Sets,2021,7,4.5,96,67.95,0.9
+Skincare,Value & Gift Sets,2021,8,4.42,146,67.99,0.88
+Skincare,Value & Gift Sets,2021,9,4.2,74,71.64,0.8
+Skincare,Value & Gift Sets,2021,10,4.32,107,66.17,0.84
+Skincare,Value & Gift Sets,2021,11,4.64,354,98.82,0.94
+Skincare,Value & Gift Sets,2021,12,4.48,183,59.12,0.89
+Skincare,Value & Gift Sets,2022,1,4.32,250,84.3,0.86
+Skincare,Value & Gift Sets,2022,2,4.37,304,90.32,0.9
+Skincare,Value & Gift Sets,2022,3,4.29,174,58.16,0.85
+Skincare,Value & Gift Sets,2022,4,4.52,395,64.88,0.9
+Skincare,Value & Gift Sets,2022,5,4.04,162,66.05,0.74
+Skincare,Value & Gift Sets,2022,6,4.25,208,79.66,0.85
+Skincare,Value & Gift Sets,2022,7,4.13,180,63.77,0.83
+Skincare,Value & Gift Sets,2022,8,3.85,131,62.56,0.75
+Skincare,Value & Gift Sets,2022,9,4.2,89,62.17,0.82
+Skincare,Value & Gift Sets,2022,10,4.62,322,58.57,0.94
+Skincare,Value & Gift Sets,2022,11,4.63,470,66.0,0.94
+Skincare,Value & Gift Sets,2022,12,4.34,226,48.0,0.85
+Skincare,Value & Gift Sets,2023,1,4.43,608,76.26,0.87
+Skincare,Value & Gift Sets,2023,2,4.3,621,58.2,0.82
+Skincare,Value & Gift Sets,2023,3,4.1,298,48.19,0.79
+Skincare,Wellness,2008,8,3.0,2,50.0,
+Skincare,Wellness,2008,9,4.44,9,50.0,
+Skincare,Wellness,2008,10,5.0,1,50.0,
+Skincare,Wellness,2008,11,3.2,5,50.0,
+Skincare,Wellness,2008,12,4.0,4,50.0,
+Skincare,Wellness,2009,1,5.0,1,50.0,
+Skincare,Wellness,2009,2,4.25,4,50.0,
+Skincare,Wellness,2009,3,4.78,9,50.0,
+Skincare,Wellness,2009,4,4.25,4,50.0,
+Skincare,Wellness,2009,5,4.07,14,50.0,
+Skincare,Wellness,2009,6,3.25,4,50.0,
+Skincare,Wellness,2009,7,4.33,3,50.0,
+Skincare,Wellness,2009,8,4.0,9,50.0,
+Skincare,Wellness,2009,9,4.43,7,50.0,
+Skincare,Wellness,2009,10,4.75,4,50.0,
+Skincare,Wellness,2009,11,4.5,4,50.0,
+Skincare,Wellness,2009,12,4.8,5,50.0,
+Skincare,Wellness,2010,1,4.0,6,50.0,
+Skincare,Wellness,2010,2,4.14,7,50.0,
+Skincare,Wellness,2010,3,3.92,12,50.0,
+Skincare,Wellness,2010,4,4.1,10,50.0,
+Skincare,Wellness,2010,5,4.38,8,50.0,
+Skincare,Wellness,2010,6,4.4,5,50.0,
+Skincare,Wellness,2010,7,4.38,8,50.0,
+Skincare,Wellness,2010,8,4.71,7,50.0,
+Skincare,Wellness,2010,9,4.0,3,50.0,
+Skincare,Wellness,2010,10,5.0,3,50.0,
+Skincare,Wellness,2010,11,4.33,9,50.0,
+Skincare,Wellness,2010,12,4.83,6,50.0,
+Skincare,Wellness,2011,1,3.46,13,50.0,
+Skincare,Wellness,2011,2,2.2,5,50.0,
+Skincare,Wellness,2011,3,4.0,8,50.0,
+Skincare,Wellness,2011,4,3.75,4,50.0,
+Skincare,Wellness,2011,5,4.0,6,50.0,
+Skincare,Wellness,2011,6,4.5,2,50.0,
+Skincare,Wellness,2011,7,5.0,4,50.0,
+Skincare,Wellness,2011,8,4.33,6,50.0,
+Skincare,Wellness,2011,9,4.25,4,50.0,
+Skincare,Wellness,2011,10,4.67,3,50.0,
+Skincare,Wellness,2011,11,4.0,4,50.0,
+Skincare,Wellness,2011,12,4.62,8,50.0,
+Skincare,Wellness,2012,1,3.5,8,50.0,
+Skincare,Wellness,2012,2,4.0,5,50.0,
+Skincare,Wellness,2012,3,3.75,4,50.0,
+Skincare,Wellness,2012,4,4.67,3,50.0,
+Skincare,Wellness,2012,6,5.0,1,50.0,
+Skincare,Wellness,2012,7,4.0,1,50.0,
+Skincare,Wellness,2012,8,5.0,2,50.0,
+Skincare,Wellness,2012,9,1.0,2,50.0,
+Skincare,Wellness,2012,10,3.0,2,50.0,
+Skincare,Wellness,2012,11,3.5,2,50.0,
+Skincare,Wellness,2012,12,4.5,4,50.0,
+Skincare,Wellness,2013,1,4.5,2,50.0,
+Skincare,Wellness,2013,2,3.75,8,50.0,
+Skincare,Wellness,2013,3,4.5,4,50.0,
+Skincare,Wellness,2013,4,4.33,3,50.0,
+Skincare,Wellness,2013,5,4.0,1,50.0,
+Skincare,Wellness,2013,6,4.0,1,50.0,
+Skincare,Wellness,2013,7,4.33,3,50.0,
+Skincare,Wellness,2013,8,3.67,3,50.0,
+Skincare,Wellness,2013,9,5.0,4,50.0,
+Skincare,Wellness,2013,10,5.0,4,50.0,
+Skincare,Wellness,2013,11,4.33,6,50.0,
+Skincare,Wellness,2013,12,2.5,6,50.0,
+Skincare,Wellness,2014,1,3.5,2,50.0,
+Skincare,Wellness,2014,2,4.75,4,50.0,
+Skincare,Wellness,2014,3,5.0,2,50.0,
+Skincare,Wellness,2014,4,5.0,4,50.0,
+Skincare,Wellness,2014,5,4.33,12,36.0,
+Skincare,Wellness,2014,6,3.7,10,43.6,
+Skincare,Wellness,2014,7,4.0,7,42.29,
+Skincare,Wellness,2014,8,4.71,7,37.71,
+Skincare,Wellness,2014,9,4.0,8,35.0,
+Skincare,Wellness,2014,10,4.6,5,37.4,
+Skincare,Wellness,2014,11,3.33,9,36.44,
+Skincare,Wellness,2014,12,4.36,11,33.73,
+Skincare,Wellness,2015,1,4.3,10,37.9,
+Skincare,Wellness,2015,2,3.83,6,36.33,
+Skincare,Wellness,2015,3,4.1,10,24.6,
+Skincare,Wellness,2015,4,4.67,27,33.04,
+Skincare,Wellness,2015,5,4.0,25,24.2,
+Skincare,Wellness,2015,6,3.2,20,26.35,
+Skincare,Wellness,2015,7,4.63,19,35.58,
+Skincare,Wellness,2015,8,5.0,7,28.43,
+Skincare,Wellness,2015,9,4.33,9,31.78,
+Skincare,Wellness,2015,10,4.18,11,31.45,
+Skincare,Wellness,2015,11,4.38,13,50.77,
+Skincare,Wellness,2015,12,4.47,15,37.6,
+Skincare,Wellness,2016,1,3.74,19,46.26,
+Skincare,Wellness,2016,2,4.24,45,45.09,
+Skincare,Wellness,2016,3,4.48,31,39.06,
+Skincare,Wellness,2016,4,4.38,64,39.3,
+Skincare,Wellness,2016,5,4.4,50,44.22,
+Skincare,Wellness,2016,6,4.41,37,42.46,
+Skincare,Wellness,2016,7,4.38,29,40.38,
+Skincare,Wellness,2016,8,4.33,24,49.0,
+Skincare,Wellness,2016,9,4.0,18,39.06,
+Skincare,Wellness,2016,10,3.96,28,40.79,
+Skincare,Wellness,2016,11,4.52,29,40.38,
+Skincare,Wellness,2016,12,3.97,33,49.15,
+Skincare,Wellness,2017,1,4.12,26,50.85,
+Skincare,Wellness,2017,2,3.95,20,42.85,
+Skincare,Wellness,2017,3,3.95,43,35.95,
+Skincare,Wellness,2017,4,4.12,25,44.32,
+Skincare,Wellness,2017,5,3.89,28,31.57,
+Skincare,Wellness,2017,6,4.76,29,34.24,
+Skincare,Wellness,2017,7,4.03,33,37.91,
+Skincare,Wellness,2017,8,3.94,34,36.97,1.0
+Skincare,Wellness,2017,9,4.18,38,34.58,0.84
+Skincare,Wellness,2017,10,4.21,28,36.82,0.79
+Skincare,Wellness,2017,11,4.14,51,46.59,0.8
+Skincare,Wellness,2017,12,4.5,36,59.94,0.89
+Skincare,Wellness,2018,1,4.05,37,45.24,0.84
+Skincare,Wellness,2018,2,4.31,39,46.46,0.87
+Skincare,Wellness,2018,3,4.3,40,46.32,0.82
+Skincare,Wellness,2018,4,4.08,49,39.96,0.78
+Skincare,Wellness,2018,5,3.64,44,41.5,0.66
+Skincare,Wellness,2018,6,4.17,64,40.8,0.81
+Skincare,Wellness,2018,7,4.2,99,34.93,0.83
+Skincare,Wellness,2018,8,4.1,81,36.01,0.8
+Skincare,Wellness,2018,9,4.4,87,40.97,0.86
+Skincare,Wellness,2018,10,4.03,109,36.73,0.75
+Skincare,Wellness,2018,11,3.59,107,39.65,0.64
+Skincare,Wellness,2018,12,4.19,109,43.83,0.81
+Skincare,Wellness,2019,1,4.16,166,35.86,0.78
+Skincare,Wellness,2019,2,4.25,126,35.19,0.83
+Skincare,Wellness,2019,3,3.93,112,36.28,0.75
+Skincare,Wellness,2019,4,3.68,108,32.92,0.68
+Skincare,Wellness,2019,5,3.92,103,40.27,0.72
+Skincare,Wellness,2019,6,3.83,93,40.57,0.71
+Skincare,Wellness,2019,7,3.94,105,37.19,0.76
+Skincare,Wellness,2019,8,4.25,144,39.21,0.86
+Skincare,Wellness,2019,9,4.03,357,41.13,0.8
+Skincare,Wellness,2019,10,3.94,254,37.43,0.78
+Skincare,Wellness,2019,11,4.23,192,20.91,0.85
+Skincare,Wellness,2019,12,4.03,102,30.34,0.76
+Skincare,Wellness,2020,1,4.1,84,35.67,0.79
+Skincare,Wellness,2020,2,4.23,233,52.0,0.85
+Skincare,Wellness,2020,3,4.23,332,55.52,0.82
+Skincare,Wellness,2020,4,3.81,163,43.72,0.71
+Skincare,Wellness,2020,5,3.57,116,42.08,0.65
+Skincare,Wellness,2020,6,3.89,208,46.34,0.74
+Skincare,Wellness,2020,7,3.87,423,51.54,0.76
+Skincare,Wellness,2020,8,3.68,371,52.29,0.61
+Skincare,Wellness,2020,9,3.59,90,47.71,0.62
+Skincare,Wellness,2020,10,4.59,221,44.37,0.91
+Skincare,Wellness,2020,11,4.32,109,44.54,0.85
+Skincare,Wellness,2020,12,3.72,67,43.76,0.7
+Skincare,Wellness,2021,1,4.25,143,31.01,0.84
+Skincare,Wellness,2021,2,4.18,94,53.33,0.8
+Skincare,Wellness,2021,3,4.15,103,32.72,0.83
+Skincare,Wellness,2021,4,3.81,108,35.73,0.69
+Skincare,Wellness,2021,5,3.59,59,29.49,0.66
+Skincare,Wellness,2021,6,3.88,76,55.08,0.72
+Skincare,Wellness,2021,7,3.93,44,47.07,0.73
+Skincare,Wellness,2021,8,3.9,42,35.71,0.69
+Skincare,Wellness,2021,9,4.22,635,43.91,0.82
+Skincare,Wellness,2021,10,4.45,319,40.45,0.88
+Skincare,Wellness,2021,11,4.11,92,37.78,0.82
+Skincare,Wellness,2021,12,3.98,59,40.59,0.76
+Skincare,Wellness,2022,1,4.65,351,29.55,0.94
+Skincare,Wellness,2022,2,4.49,136,33.99,0.9
+Skincare,Wellness,2022,3,4.45,110,37.92,0.87
+Skincare,Wellness,2022,4,4.4,88,55.89,0.82
+Skincare,Wellness,2022,5,4.42,115,57.95,0.89
+Skincare,Wellness,2022,6,4.33,63,42.62,0.83
+Skincare,Wellness,2022,7,3.71,45,25.44,0.64
+Skincare,Wellness,2022,8,3.6,20,26.2,0.65
+Skincare,Wellness,2022,9,4.31,96,28.07,0.88
+Skincare,Wellness,2022,10,4.63,491,23.9,0.95
+Skincare,Wellness,2022,11,4.0,38,24.32,0.74
+Skincare,Wellness,2022,12,4.66,59,36.68,0.97
+Skincare,Wellness,2023,1,4.12,72,34.43,0.81
+Skincare,Wellness,2023,2,4.59,380,27.97,0.93
+Skincare,Wellness,2023,3,4.56,178,38.4,0.92

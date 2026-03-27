@@ -1,0 +1,25 @@
+# Large data files
+sephora_master.csv
+*.pbix
+reviews_0-250.csv
+reviews_250-500.csv
+reviews_500-750.csv
+reviews_750-1250.csv
+reviews_1250-end.csv
+product_info.csv
+
+# Aggregated data (keep these)
+# agg_brand.csv
+# agg_category.csv
+# agg_skin.csv
+# agg_time.csv
+# ai_insights.csv
+
+# Python
+.env
+__pycache__/
+*.pyc
+.venv/
+
+# IDE
+.idea/

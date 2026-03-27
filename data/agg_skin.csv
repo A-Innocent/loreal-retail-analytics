@@ -1,0 +1,53 @@
+skin_type,primary_category,secondary_category,avg_rating,total_reviews,pct_recommended
+combination,Skincare,Cleansers,4.35,100395,0.85
+combination,Skincare,Eye Care,4.2,38793,0.83
+combination,Skincare,High Tech Tools,4.19,2990,0.81
+combination,Skincare,Lip Balms & Treatments,4.33,27946,0.82
+combination,Skincare,Masks,4.35,31746,0.86
+combination,Skincare,Mini Size,4.29,44563,0.83
+combination,Skincare,Moisturizers,4.33,143896,0.85
+combination,Skincare,Self Tanners,4.12,5835,0.8
+combination,Skincare,Shop by Concern,4.11,9,0.67
+combination,Skincare,Sunscreen,4.2,21380,0.81
+combination,Skincare,Treatments,4.32,115533,0.86
+combination,Skincare,Value & Gift Sets,4.3,6006,0.85
+combination,Skincare,Wellness,4.18,5421,0.81
+dry,Skincare,Cleansers,4.33,30567,0.84
+dry,Skincare,Eye Care,4.2,12926,0.83
+dry,Skincare,High Tech Tools,4.22,1053,0.82
+dry,Skincare,Lip Balms & Treatments,4.28,10001,0.8
+dry,Skincare,Masks,4.32,10831,0.84
+dry,Skincare,Mini Size,4.28,14952,0.83
+dry,Skincare,Moisturizers,4.31,55259,0.84
+dry,Skincare,Self Tanners,4.08,2161,0.79
+dry,Skincare,Shop by Concern,4.5,4,0.75
+dry,Skincare,Sunscreen,4.15,7566,0.79
+dry,Skincare,Treatments,4.31,37104,0.85
+dry,Skincare,Value & Gift Sets,4.24,1901,0.83
+dry,Skincare,Wellness,4.26,1612,0.84
+normal,Skincare,Cleansers,4.33,21872,0.84
+normal,Skincare,Eye Care,4.19,10488,0.82
+normal,Skincare,High Tech Tools,4.11,746,0.8
+normal,Skincare,Lip Balms & Treatments,4.29,7967,0.8
+normal,Skincare,Masks,4.3,7323,0.84
+normal,Skincare,Mini Size,4.28,10360,0.82
+normal,Skincare,Moisturizers,4.32,34755,0.85
+normal,Skincare,Self Tanners,3.98,2284,0.77
+normal,Skincare,Shop by Concern,4.0,1,0.0
+normal,Skincare,Sunscreen,4.14,5912,0.79
+normal,Skincare,Treatments,4.29,27410,0.85
+normal,Skincare,Value & Gift Sets,4.25,1422,0.83
+normal,Skincare,Wellness,4.14,1370,0.8
+oily,Skincare,Cleansers,4.31,24840,0.84
+oily,Skincare,Eye Care,4.18,7368,0.83
+oily,Skincare,High Tech Tools,4.23,650,0.83
+oily,Skincare,Lip Balms & Treatments,4.32,6380,0.81
+oily,Skincare,Masks,4.36,6879,0.86
+oily,Skincare,Mini Size,4.25,10439,0.82
+oily,Skincare,Moisturizers,4.27,29435,0.84
+oily,Skincare,Self Tanners,4.13,1231,0.8
+oily,Skincare,Shop by Concern,5.0,1,1.0
+oily,Skincare,Sunscreen,4.14,4622,0.8
+oily,Skincare,Treatments,4.27,26124,0.84
+oily,Skincare,Value & Gift Sets,4.23,1268,0.84
+oily,Skincare,Wellness,4.1,1257,0.79
